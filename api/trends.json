@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T22:15:48.251924+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2025-12-07T23:15:15.861101+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "你会花七八千买华为手机吗",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时56分 ~ 12时31分]"
+        },
+        {
+          "title": "央视曝光智驾神器成夺命陷阱",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%99%BA%E9%A9%BE%E7%A5%9E%E5%99%A8%E6%88%90%E5%A4%BA%E5%91%BD%E9%99%B7%E9%98%B1%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
         }
       ]
     }
