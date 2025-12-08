@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T11:20:12.860032+08:00",
-  "total_titles_processed": 744,
+  "generated_at": "2025-12-08T12:32:15.926334+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 11时20分]"
+          "appearance_count": 5,
+          "time_info": "[09时18分 ~ 12时32分]"
         },
         {
           "title": "鸿蒙智行五界首聚直播",
           "url": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E4%BA%94%E7%95%8C%E9%A6%96%E8%81%9A%E7%9B%B4%E6%92%AD%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 12时32分]"
         }
       ]
     }
