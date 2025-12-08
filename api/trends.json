@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T14:30:27.329557+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2025-12-08T15:22:12.608403+08:00",
+  "total_titles_processed": 1089,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             13,
             4,
             12,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时18分 ~ 14时30分]"
+          "appearance_count": 10,
+          "time_info": "[09时18分 ~ 15时22分]"
         },
         {
           "title": "鸿蒙智行五界首聚直播",
