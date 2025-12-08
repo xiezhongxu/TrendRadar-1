@@ -1,42 +1,7 @@
 {
-  "generated_at": "2025-12-08T23:20:23.979084+08:00",
-  "total_titles_processed": 1810,
+  "generated_at": "2025-12-09T00:23:52.804609+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "央视曝光汽车智驾神器成夺命陷阱",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E7%A5%9E%E5%99%A8%E6%88%90%E5%A4%BA%E5%91%BD%E9%99%B7%E9%98%B1",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            4,
-            12,
-            17,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时18分 ~ 16时27分]"
-        },
-        {
-          "title": "鸿蒙智行五界首聚直播",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E4%BA%94%E7%95%8C%E9%A6%96%E8%81%9A%E7%9B%B4%E6%92%AD%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时19分 ~ 12时32分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
