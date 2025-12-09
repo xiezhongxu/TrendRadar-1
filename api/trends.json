@@ -1,150 +1,22 @@
 {
-  "generated_at": "2025-12-09T23:21:00.244561+08:00",
-  "total_titles_processed": 2146,
+  "generated_at": "2025-12-10T00:24:16.050552+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 12,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "余承东透露享界将推新车型",
-          "url": "https://wallstreetcn.com/livenews/3017553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时21分]"
-        },
-        {
-          "title": "问界M7达成19万公里辅助驾驶里程",
-          "url": "https://www.toutiao.com/trending/7580970951677739058/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 23时21分]"
-        },
-        {
-          "title": "鸿蒙智行全面深化战略合作",
-          "url": "https://wallstreetcn.com/livenews/3017361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时18分]"
-        },
-        {
-          "title": "鸿蒙智行 12 月 9 日的年度直播，哪个环节最打动你？有哪些值得关注的信息？",
-          "url": "https://www.zhihu.com/question/1981689062365622846",
-          "source": "知乎",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时20分]"
-        },
         {
           "title": "央视曝光「智驾神器」变致命陷阱，骗过系统实现脱手驾驶，不法商家钻监管漏洞，反映出辅助驾驶行业哪些问题？",
           "url": "https://www.zhihu.com/question/1981118276353422558",
           "source": "知乎",
           "ranks": [
-            17
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时20分 ~ 23时21分]"
-        },
-        {
-          "title": "余承东官宣首款MPV命名为智界V9",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%AE%98%E5%AE%A3%E9%A6%96%E6%AC%BEMPV%E5%91%BD%E5%90%8D%E4%B8%BA%E6%99%BA%E7%95%8CV9%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时21分]"
-        },
-        {
-          "title": "赛力斯副总裁回应“早日脱离华为”",
-          "url": "https://www.toutiao.com/trending/7580631254769778714/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时17分]"
-        },
-        {
-          "title": "余承东剧透鸿蒙智行首款MPV：名为智界V9",
-          "url": "https://wallstreetcn.com/livenews/3017455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "王晓秋：上汽与华为合作“1+1>2”，将把前沿技术变为用户价值",
-          "url": "https://wallstreetcn.com/livenews/3017738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "鸿蒙智行官宣首款MPV命名为智界V9。",
-          "url": "https://wallstreetcn.com/livenews/3017600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "余承东透露明年或将推出问界M6",
-          "url": "https://wallstreetcn.com/livenews/3017688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "问界成为中国豪华汽车引领者",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8C%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%B1%AA%E5%8D%8E%E6%B1%BD%E8%BD%A6%E5%BC%95%E9%A2%86%E8%80%85%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "[00时23分 ~ 00时24分]"
         }
       ]
     }
