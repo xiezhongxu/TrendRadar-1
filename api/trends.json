@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T16:25:07.657154+08:00",
-  "total_titles_processed": 1496,
+  "generated_at": "2025-12-10T17:22:05.437768+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 16时25分]"
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 17时22分]"
         },
         {
           "title": "鸿蒙智行尊界 S800 轿车连续三月登顶 70 万级以上豪华车销冠，其核心竞争力是什么？",
@@ -27,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时28分 ~ 16时25分]"
+          "appearance_count": 6,
+          "time_info": "[14时28分 ~ 17时22分]"
         },
         {
           "title": "央视曝光「智驾神器」变致命陷阱，骗过系统实现脱手驾驶，不法商家钻监管漏洞，反映出辅助驾驶行业哪些问题？",
