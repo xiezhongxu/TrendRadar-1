@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T13:20:45.770648+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2025-12-11T14:29:41.933642+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "华为高管称机械硬盘 HDD 是唯一未实现国产化的存储器件，这反映出我国存储产业存在哪些挑战？",
@@ -13,22 +13,24 @@
           "source": "知乎",
           "ranks": [
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时22分 ~ 13时20分]"
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 14时29分]"
         },
         {
           "title": "华为重夺中国手机市场份额第一",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%87%8D%E5%A4%BA%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E4%BB%BD%E9%A2%9D%E7%AC%AC%E4%B8%80%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时29分]"
         },
         {
           "title": "华为、支付宝、中移互联网合作布局AI+5G新通话DC生态",
@@ -41,6 +43,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 12时34分]"
+        },
+        {
+          "title": "华为重夺中国手机市场份额第一",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E9%87%8D%E5%A4%BA%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E4%BB%BD%E9%A2%9D%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         }
       ]
     }
