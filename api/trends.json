@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T14:31:16.126765+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2025-12-15T15:22:49.648970+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E6%8E%A2%E7%B4%A2%E6%99%BA%E8%83%BD%E6%B1%BD%E8%BD%A6%E6%97%A0%E4%BA%BA%E5%8C%BA%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 15时22分]"
         },
         {
           "title": "华为nova15来了",
