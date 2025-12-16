@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-12-16T17:23:56.301126+08:00",
-  "total_titles_processed": 1600,
+  "generated_at": "2025-12-16T18:22:04.293971+08:00",
+  "total_titles_processed": 1699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
       "match_count": 10,
       "titles": [
+        {
+          "title": "余承东任华为终端公司董事长 孟晚舟卸任华为终端公司董事",
+          "url": "https://www.cls.cn/detail/2230679",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时20分 ~ 18时22分]"
+        },
         {
           "title": "如果华为海思上市，会达到摩尔线程一半的市值吗？",
           "url": "https://www.zhihu.com/question/1983140374206756378",
@@ -24,20 +39,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时26分 ~ 13时20分]"
-        },
-        {
-          "title": "余承东任华为终端公司董事长 孟晚舟卸任华为终端公司董事",
-          "url": "https://www.cls.cn/detail/2230679",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时20分 ~ 17时23分]"
         },
         {
           "title": "孟晚舟卸任华为终端公司董事",
