@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T16:26:51.755955+08:00",
-  "total_titles_processed": 1495,
+  "generated_at": "2025-12-16T17:23:56.301126+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
@@ -24,6 +24,20 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时26分 ~ 13时20分]"
+        },
+        {
+          "title": "余承东任华为终端公司董事长 孟晚舟卸任华为终端公司董事",
+          "url": "https://www.cls.cn/detail/2230679",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时20分 ~ 17时23分]"
         },
         {
           "title": "孟晚舟卸任华为终端公司董事",
@@ -51,17 +65,28 @@
           "time_info": "[14时28分 ~ 15时22分]"
         },
         {
-          "title": "余承东任华为终端公司董事长 孟晚舟卸任华为终端公司董事",
-          "url": "https://www.cls.cn/detail/2230679",
-          "source": "财联社热门",
+          "title": "孟晚舟卸任华为终端公司董事",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%9F%E6%99%9A%E8%88%9F%E5%8D%B8%E4%BB%BB%E5%8D%8E%E4%B8%BA%E7%BB%88%E7%AB%AF%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            11,
-            6
+            21,
+            14
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时20分 ~ 16时26分]"
+          "time_info": "[14时28分 ~ 17时23分]"
+        },
+        {
+          "title": "余承东任华为终端公司董事长",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E4%BB%BB%E5%8D%8E%E4%B8%BA%E7%BB%88%E7%AB%AF%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时28分 ~ 17时23分]"
         },
         {
           "title": "孟晚舟卸任华为终端公司董事",
@@ -74,29 +99,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时20分 ~ 14时29分]"
-        },
-        {
-          "title": "孟晚舟卸任华为终端公司董事",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%9F%E6%99%9A%E8%88%9F%E5%8D%B8%E4%BB%BB%E5%8D%8E%E4%B8%BA%E7%BB%88%E7%AB%AF%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时28分 ~ 16时26分]"
-        },
-        {
-          "title": "余承东任华为终端公司董事长",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E4%BB%BB%E5%8D%8E%E4%B8%BA%E7%BB%88%E7%AB%AF%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时28分 ~ 16时26分]"
         },
         {
           "title": "余承东有新职务！已任华为终端公司董事长",
