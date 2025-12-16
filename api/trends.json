@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T22:21:44.451258+08:00",
-  "total_titles_processed": 2093,
+  "generated_at": "2025-12-16T23:21:43.968234+08:00",
+  "total_titles_processed": 2193,
   "failed_sources": [],
   "trends": [
     {
@@ -126,6 +126,18 @@
           "time_info": "[19时17分 ~ 20时38分]"
         },
         {
+          "title": "华为多位高管调整，余承东接任华为终端公司董事长，孟晚舟、徐直军等卸任董事，对公司发展可能有哪些影响？",
+          "url": "https://www.zhihu.com/question/1984227946542692071",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时21分]"
+        },
+        {
           "title": "我国公布首批L3级自动驾驶车型准入许可 高阶智驾渗透率或持续提升",
           "url": "https://www.cls.cn/detail/2230415",
           "source": "财联社热门",
@@ -136,17 +148,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时22分 ~ 16时26分]"
-        },
-        {
-          "title": "华为多位高管调整，余承东接任华为终端公司董事长，孟晚舟、徐直军等卸任董事，对公司发展可能有哪些影响？",
-          "url": "https://www.zhihu.com/question/1984227946542692071",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
         },
         {
           "title": "车百会理事长张永伟：未来五年，中国智驾方案有望成为全球方案",
