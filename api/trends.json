@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T03:18:47.469951+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2025-12-18T04:21:11.857758+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1984308487723960153",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "华为Mate80为啥价格突崩",
@@ -29,8 +30,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "西班牙电信：将启动美国存托凭证（ADS）退市程序。预计这一决定不会对在美国的客户、合作伙伴或商业布局产生任何影响。",
