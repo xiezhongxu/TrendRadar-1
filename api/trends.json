@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T05:18:16.665874+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2025-12-18T06:18:17.927946+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             28,
             18,
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 06时18分]"
         },
         {
           "title": "如何评价尊界第 10000 台车下线？",
@@ -28,11 +29,12 @@
           "ranks": [
             4,
             12,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时18分]"
         },
         {
           "title": "西班牙电信：将启动美国存托凭证（ADS）退市程序。预计这一决定不会对在美国的客户、合作伙伴或商业布局产生任何影响。",
