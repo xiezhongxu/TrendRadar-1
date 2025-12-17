@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-12-18T04:21:11.857758+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2025-12-18T05:18:16.665874+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
       "match_count": 3,
       "titles": [
-        {
-          "title": "如何评价尊界第 10000 台车下线？",
-          "url": "https://www.zhihu.com/question/1984308487723960153",
-          "source": "知乎",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 04时21分]"
-        },
         {
           "title": "华为Mate80为啥价格突崩",
           "url": "https://www.toutiao.com/trending/7583986943530680374/",
@@ -30,8 +18,21 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时18分]"
+        },
+        {
+          "title": "如何评价尊界第 10000 台车下线？",
+          "url": "https://www.zhihu.com/question/1984308487723960153",
+          "source": "知乎",
+          "ranks": [
+            4,
+            12,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "西班牙电信：将启动美国存托凭证（ADS）退市程序。预计这一决定不会对在美国的客户、合作伙伴或商业布局产生任何影响。",
