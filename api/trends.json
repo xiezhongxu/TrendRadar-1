@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T07:17:57.829805+08:00",
-  "total_titles_processed": 668,
+  "generated_at": "2025-12-18T09:17:48.690608+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "华为Mate80为啥价格突崩",
@@ -16,11 +16,12 @@
             18,
             13,
             12,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时17分]"
         },
         {
           "title": "如何评价尊界第 10000 台车下线？",
@@ -37,6 +38,17 @@
           "time_info": "[00时24分 ~ 06时18分]"
         },
         {
+          "title": "小米、华为、理想报案，警方抓获12人",
+          "url": "https://www.cls.cn/detail/2232721",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
           "title": "西班牙电信：将启动美国存托凭证（ADS）退市程序。预计这一决定不会对在美国的客户、合作伙伴或商业布局产生任何影响。",
           "url": "https://flash.jin10.com/detail/20251218004039843800",
           "source": "金十数据",
@@ -46,6 +58,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "小米、华为、理想先后报警 12人被抓",
+          "url": "https://www.toutiao.com/trending/7584842544207953962/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         }
       ]
     }
