@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T07:18:12.602818+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2025-12-19T09:20:55.401566+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "小米华为理想先后报警 12人被抓",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时17分 ~ 07时18分]"
+        },
+        {
+          "title": "阿维塔智驾状态下撞大货车，碰撞前智驾系统没有任何反应，AEB 也不生效，为什么会这样？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/1984228433086137535",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         }
       ]
     }
