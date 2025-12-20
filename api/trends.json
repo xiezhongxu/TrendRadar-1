@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T22:16:23.699038+08:00",
-  "total_titles_processed": 1552,
+  "generated_at": "2025-12-20T23:16:31.432079+08:00",
+  "total_titles_processed": 1602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "华为Pura X官方降价800元",
@@ -34,6 +34,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[21时25分 ~ 22时16分]"
+        },
+        {
+          "title": "单依纯唱出华为影像温情瞬间",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%94%B1%E5%87%BA%E5%8D%8E%E4%B8%BA%E5%BD%B1%E5%83%8F%E6%B8%A9%E6%83%85%E7%9E%AC%E9%97%B4%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "华为Pura X官宣降价",
