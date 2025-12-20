@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T13:17:54.692689+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2025-12-20T14:26:58.792994+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 14时26分]"
         },
         {
           "title": "华为Pura X官宣降价",
@@ -26,7 +27,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         }
