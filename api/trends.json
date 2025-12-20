@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T20:32:33.359969+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2025-12-20T21:25:49.106835+08:00",
+  "total_titles_processed": 1498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "华为Pura X官方降价800元",
@@ -33,6 +33,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "男子称华为新手机充电时电池爆了",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B5%E6%97%B6%E7%94%B5%E6%B1%A0%E7%88%86%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "华为折叠屏秒变舞台主持手卡",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%A7%92%E5%8F%98%E8%88%9E%E5%8F%B0%E4%B8%BB%E6%8C%81%E6%89%8B%E5%8D%A1%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         }
       ]
     }
