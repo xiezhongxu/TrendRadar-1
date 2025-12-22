@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T19:16:43.322727+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2025-12-22T20:37:11.040915+08:00",
+  "total_titles_processed": 1641,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "鸿蒙智行「鸿蒙大饭店」服务收缩，为何多数车主对此表示支持？",
@@ -34,6 +34,17 @@
           "time_info": "[16时26分 ~ 17时26分]"
         },
         {
+          "title": "媒体报道华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」拒保，实际情况如何？",
+          "url": "https://www.zhihu.com/question/1985806313826043181",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 20时37分]"
+        },
+        {
           "title": "有消费者称华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」拒保，实际情况如何？",
           "url": "https://www.zhihu.com/question/1985806313826043181",
           "source": "知乎",
@@ -43,6 +54,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时20分 ~ 19时16分]"
+        },
+        {
+          "title": "华为nova 15全系支持无网通信",
+          "url": "https://www.douyin.com/hot/2344346",
+          "source": "抖音",
+          "ranks": [
+            11,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时37分]"
         },
         {
           "title": "华为nova15售价2699元起",
@@ -82,16 +106,15 @@
           "time_info": "[17时26分 ~ 18时20分]"
         },
         {
-          "title": "华为nova 15全系支持无网通信",
-          "url": "https://www.douyin.com/hot/2344346",
-          "source": "抖音",
+          "title": "AH股高开高走，创业板涨超2%，贵金属、CPO、智驾走强，拓荆科技市值破千亿，沪银续创新高",
+          "url": "https://wallstreetcn.com/articles/3761822",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            23
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时16分]"
+          "time_info": "[20时36分 ~ 20时37分]"
         },
         {
           "title": "华为nova 15定价2699元起",
@@ -111,7 +134,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         }
