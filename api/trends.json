@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T00:22:32.034201+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-23T01:17:10.849263+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "媒体报道华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」拒保，实际情况如何？",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "华为推出全屋智能套装 最低9999元起",
+          "url": "https://www.toutiao.com/trending/7586584778670325801/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 01时17分]"
         }
       ]
     }
