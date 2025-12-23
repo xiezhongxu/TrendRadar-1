@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T11:24:49.099495+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2025-12-23T12:36:08.004519+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "媒体报道华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」拒保，实际情况如何？",
@@ -20,6 +20,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 07时17分]"
+        },
+        {
+          "title": "华为自研电池首次曝光",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BA%E8%87%AA%E7%A0%94%E7%94%B5%E6%B1%A0%E9%A6%96%E6%AC%A1%E6%9B%9D%E5%85%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
+        },
+        {
+          "title": "华为何刚晒与易烊千玺合照",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E4%BD%95%E5%88%9A%E6%99%92%E4%B8%8E%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%90%88%E7%85%A7&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
         },
         {
           "title": "华为推出全屋智能套装 最低9999元起",
