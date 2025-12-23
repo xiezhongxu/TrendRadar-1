@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T17:22:43.306988+08:00",
-  "total_titles_processed": 1514,
+  "generated_at": "2025-12-23T18:20:41.085189+08:00",
+  "total_titles_processed": 1583,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BA%E8%87%AA%E7%A0%94%E7%94%B5%E6%B1%A0%E9%A6%96%E6%AC%A1%E6%9B%9D%E5%85%89",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时35分 ~ 17时22分]"
+          "appearance_count": 9,
+          "time_info": "[12时35分 ~ 18时20分]"
         },
         {
           "title": "华为何刚晒与易烊千玺合照",
