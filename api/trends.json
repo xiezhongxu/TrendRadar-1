@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T13:21:53.860210+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2025-12-23T14:29:23.793245+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 14时29分]"
         },
         {
           "title": "华为何刚晒与易烊千玺合照",
@@ -62,7 +62,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         }
