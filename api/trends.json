@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T11:22:17.478911+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2025-12-24T12:34:15.441440+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "华为自研电池首次曝光",
@@ -22,6 +22,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 07时16分]"
+        },
+        {
+          "title": "刘德华为非凡大师献唱",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%BA%E9%9D%9E%E5%87%A1%E5%A4%A7%E5%B8%88%E7%8C%AE%E5%94%B1%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
         }
       ]
     }
