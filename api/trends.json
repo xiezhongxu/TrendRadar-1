@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T14:29:29.582790+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2025-12-24T15:22:11.661422+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "华为自研电池首次曝光",
@@ -22,6 +22,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 07时16分]"
+        },
+        {
+          "title": "北京发放首批L3级高速公路自动驾驶号牌 智驾产业拐点加速到来",
+          "url": "https://www.cls.cn/detail/2238276",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
           "title": "刘德华为非凡大师献唱",
