@@ -1,62 +1,22 @@
 {
-  "generated_at": "2025-12-24T23:19:17.626656+08:00",
-  "total_titles_processed": 1977,
+  "generated_at": "2025-12-25T00:22:30.517967+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "华为自研电池首次曝光",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BA%E8%87%AA%E7%A0%94%E7%94%B5%E6%B1%A0%E9%A6%96%E6%AC%A1%E6%9B%9D%E5%85%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            22,
-            16,
-            15,
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时16分]"
-        },
         {
           "title": "如何看待华为首款星闪耳机，能否引领音频行业新方向？",
           "url": "https://www.zhihu.com/question/1987197913970017225",
           "source": "知乎",
           "ranks": [
-            17,
-            14,
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时31分 ~ 23时19分]"
-        },
-        {
-          "title": "北京发放首批L3级高速公路自动驾驶号牌 智驾产业拐点加速到来",
-          "url": "https://www.cls.cn/detail/2238276",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
-        },
-        {
-          "title": "刘德华为非凡大师献唱",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%BA%E9%9D%9E%E5%87%A1%E5%A4%A7%E5%B8%88%E7%8C%AE%E5%94%B1%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 12时34分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     }
