@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T22:18:06.697273+08:00",
-  "total_titles_processed": 1892,
+  "generated_at": "2025-12-24T23:19:17.626656+08:00",
+  "total_titles_processed": 1977,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时18分]"
+          "appearance_count": 5,
+          "time_info": "[21时31分 ~ 23时19分]"
         },
         {
           "title": "北京发放首批L3级高速公路自动驾驶号牌 智驾产业拐点加速到来",
