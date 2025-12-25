@@ -1,60 +1,7 @@
 {
-  "generated_at": "2025-12-25T23:18:22.563873+08:00",
-  "total_titles_processed": 1888,
+  "generated_at": "2025-12-26T00:22:06.533148+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "如何看待华为首款星闪耳机，能否引领音频行业新方向？",
-          "url": "https://www.zhihu.com/question/1987197913970017225",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 09时20分]"
-        },
-        {
-          "title": "刘德华为一件事过万重山",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%BA%E4%B8%80%E4%BB%B6%E4%BA%8B%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 18时19分]"
-        },
-        {
-          "title": "华为最薄nova手机开售",
-          "url": "https://wallstreetcn.com/livenews/3026575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 15时21分]"
-        },
-        {
-          "title": "华为nova15",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAnova15&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 15时21分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
