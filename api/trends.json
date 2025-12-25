@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T17:21:07.562910+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2025-12-25T18:19:48.980970+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时22分 ~ 09时20分]"
+        },
+        {
+          "title": "刘德华为一件事过万重山",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%BA%E4%B8%80%E4%BB%B6%E4%BA%8B%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 18时19分]"
         },
         {
           "title": "华为最薄nova手机开售",
@@ -40,17 +52,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时20分 ~ 15时21分]"
-        },
-        {
-          "title": "刘德华为一件事过万重山",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%BA%E4%B8%80%E4%BB%B6%E4%BA%8B%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 17时21分]"
         }
       ]
     }
