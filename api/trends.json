@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T01:16:05.926875+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2025-12-27T02:25:51.749013+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "华为：全球悬赏300万元解决AI时代的存储难题",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时25分]"
         }
       ]
     }
