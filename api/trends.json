@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-12-26T09:21:21.901801+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2025-12-26T11:23:07.466959+08:00",
+  "total_titles_processed": 813,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "享界让豪华轿车市场四分天下",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AB%E7%95%8C%E8%AE%A9%E8%B1%AA%E5%8D%8E%E8%BD%BF%E8%BD%A6%E5%B8%82%E5%9C%BA%E5%9B%9B%E5%88%86%E5%A4%A9%E4%B8%8B%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 11时23分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
