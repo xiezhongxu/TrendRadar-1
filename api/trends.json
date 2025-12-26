@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T22:18:23.415056+08:00",
-  "total_titles_processed": 1759,
+  "generated_at": "2025-12-26T23:18:32.497288+08:00",
+  "total_titles_processed": 1835,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时35分 ~ 22时18分]"
+          "appearance_count": 6,
+          "time_info": "[20时35分 ~ 23时18分]"
         },
         {
           "title": "奖金300万元，华为第六届奥林帕斯奖正式启动全球征集",
@@ -32,6 +33,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时36分 ~ 22时18分]"
+        },
+        {
+          "title": "华为悬赏300万元求解难题",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%82%AC%E8%B5%8F300%E4%B8%87%E5%85%83%E6%B1%82%E8%A7%A3%E9%9A%BE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时18分]"
         },
         {
           "title": "华为将于2026年3月推出全新华为随行WiFi X",
@@ -66,17 +79,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
-        },
-        {
-          "title": "华为悬赏300万元求解难题",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%82%AC%E8%B5%8F300%E4%B8%87%E5%85%83%E6%B1%82%E8%A7%A3%E9%9A%BE%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
         }
       ]
     }
