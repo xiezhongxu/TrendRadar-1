@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T02:25:51.749013+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2025-12-27T03:15:06.502515+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "华为悬赏300万元求解难题",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 03时15分]"
         },
         {
           "title": "华为：全球悬赏300万元解决AI时代的存储难题",
@@ -26,8 +26,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 03时15分]"
+        },
+        {
+          "title": "阿维塔南极极寒测试遭网友打假，官方回应将进行 16 个月极地测试，能平息争议吗？极地测试有必要吗？",
+          "url": "https://www.zhihu.com/question/1987503409587320378",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 03时15分]"
         }
       ]
     }
