@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T04:19:29.522259+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2025-12-27T05:16:10.440479+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 05时16分]"
         },
         {
           "title": "华为：全球悬赏300万元解决AI时代的存储难题",
           "url": "https://www.cls.cn/detail/2241363",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 05时16分]"
         },
         {
           "title": "阿维塔南极极寒测试遭网友打假，官方回应将进行 16 个月极地测试，能平息争议吗？极地测试有必要吗？",
@@ -35,11 +36,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 05时16分]"
         }
       ]
     }
