@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T14:27:06.708066+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2025-12-27T15:17:06.965820+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 14时27分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 15时17分]"
         },
         {
           "title": "阿维塔南极极寒测试遭网友打假，官方回应将进行 16 个月极地测试，能平息争议吗？极地测试有必要吗？",
@@ -55,11 +55,12 @@
             6,
             11,
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时21分 ~ 14时27分]"
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 15时17分]"
         },
         {
           "title": "小米新机涨价 华为旗舰新机逆市降价",
