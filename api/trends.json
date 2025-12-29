@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T14:31:28.615314+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2025-12-29T15:24:08.456742+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "智界汽车12月交付突破10000台",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时46分 ~ 12时46分]"
+        },
+        {
+          "title": "尊界S800高尔夫圈社交新名片",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8A%E7%95%8CS800%E9%AB%98%E5%B0%94%E5%A4%AB%E5%9C%88%E7%A4%BE%E4%BA%A4%E6%96%B0%E5%90%8D%E7%89%87%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 15时24分]"
         },
         {
           "title": "问界M8有爱就有家",
