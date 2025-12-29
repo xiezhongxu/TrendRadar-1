@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-29T19:17:34.220958+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2025-12-29T20:38:47.683660+08:00",
+  "total_titles_processed": 1612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "华为增资人形机器人赛道",
+          "url": "https://wallstreetcn.com/livenews/3028148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
         {
           "title": "智界汽车12月交付突破10000台",
           "url": "https://wallstreetcn.com/livenews/3027864",
