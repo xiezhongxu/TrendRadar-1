@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T15:20:52.574123+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2025-12-30T16:26:17.618250+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 15时20分]"
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 16时26分]"
         },
         {
           "title": "华为新年致辞出炉！孟晚舟：智能时代的新征程已经开启",
           "url": "https://www.cls.cn/detail/2243658",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 15时20分]"
+          "appearance_count": 4,
+          "time_info": "[14时28分 ~ 16时26分]"
         },
         {
           "title": "孟晚舟新年致辞谈华为2026战略",
