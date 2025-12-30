@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-12-31T00:23:47.636933+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-31T01:19:11.404817+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为如何保障电池安全",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BA%E5%A6%82%E4%BD%95%E4%BF%9D%E9%9A%9C%E7%94%B5%E6%B1%A0%E5%AE%89%E5%85%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 01时19分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
