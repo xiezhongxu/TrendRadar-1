@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T20:37:00.375208+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2026-01-01T21:32:31.528700+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348627&amp;topic_name=%E4%B8%89%E6%98%9F%E5%8D%95%E5%AD%A3%E7%88%86%E8%B5%9A%E7%A2%BE%E5%8E%8B%E5%8D%8E%E4%B8%BA300%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 20时37分]"
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 21时32分]"
         },
         {
           "title": "鸿蒙智行12月交付89611台",
