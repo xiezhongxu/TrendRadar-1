@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T19:16:38.010373+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-01-01T20:37:00.375208+08:00",
+  "total_titles_processed": 1407,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时16分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时37分]"
         },
         {
           "title": "鸿蒙智行12月交付89611台",
