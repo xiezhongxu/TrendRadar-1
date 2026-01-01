@@ -1,59 +1,7 @@
 {
-  "generated_at": "2026-01-01T23:19:15.210405+08:00",
-  "total_titles_processed": 1567,
+  "generated_at": "2026-01-02T00:22:53.290081+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "三星单季爆赚碾压华为300亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348627&amp;topic_name=%E4%B8%89%E6%98%9F%E5%8D%95%E5%AD%A3%E7%88%86%E8%B5%9A%E7%A2%BE%E5%8E%8B%E5%8D%8E%E4%B8%BA300%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 21时32分]"
-        },
-        {
-          "title": "鸿蒙智行12月交付89611台",
-          "url": "https://wallstreetcn.com/livenews/3029507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "鸿蒙智行2025年全年交付589107台",
-          "url": "https://www.toutiao.com/trending/7589575642552500260/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "鸿蒙智行12月交付89611台",
-          "url": "https://flash.jin10.com/detail/20260101074209839800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
