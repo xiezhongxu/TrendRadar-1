@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-01-02T23:19:31.935080+08:00",
-  "total_titles_processed": 1645,
+  "generated_at": "2026-01-03T00:22:09.083639+08:00",
+  "total_titles_processed": 320,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "12月电车成绩单：小米首破5万大关，蔚来、鸿蒙智行交付再创新高，零跑同增超四成",
-          "url": "https://wallstreetcn.com/articles/3762434",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时22分 ~ 20时36分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
