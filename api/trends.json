@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T18:18:26.896247+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-01-04T19:15:23.184894+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时46分 ~ 18时18分]"
+          "appearance_count": 8,
+          "time_info": "[12时46分 ~ 19时15分]"
         },
         {
           "title": "马杜罗称华为是反窃听天花板",
@@ -26,11 +26,12 @@
           "ranks": [
             4,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时19分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[15时19分 ~ 19时15分]"
         }
       ]
     }
