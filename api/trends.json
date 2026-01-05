@@ -1,49 +1,7 @@
 {
-  "generated_at": "2026-01-05T23:21:23.862240+08:00",
-  "total_titles_processed": 1964,
+  "generated_at": "2026-01-06T00:24:07.216443+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "马杜罗称华为是反窃听天花板",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348672&amp;topic_name=%E9%A9%AC%E6%9D%9C%E7%BD%97%E7%A7%B0%E5%8D%8E%E4%B8%BA%E6%98%AF%E5%8F%8D%E7%AA%83%E5%90%AC%E5%A4%A9%E8%8A%B1%E6%9D%BF",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 09时29分]"
-        },
-        {
-          "title": "广汽集团与华为终端签约，深化鸿蒙生态与AI技术合作",
-          "url": "https://wallstreetcn.com/livenews/3030823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时40分]"
-        },
-        {
-          "title": "小米将入局增程赛道 理想问界如何接招",
-          "url": "https://www.toutiao.com/trending/7591490558862822966/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
