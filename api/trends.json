@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-06T17:24:20.279999+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2026-01-06T18:21:17.840417+08:00",
+  "total_titles_processed": 1668,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄仁勋CES演讲全文来了！Rubin全面投产，算力暴涨5倍，砸掉智驾门槛All in物理世界",
+          "url": "https://wallstreetcn.com/articles/3762621",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
