@@ -1,39 +1,7 @@
 {
-  "generated_at": "2026-01-07T23:22:17.533230+08:00",
-  "total_titles_processed": 2217,
+  "generated_at": "2026-01-08T00:26:49.109470+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "黄仁勋CES演讲全文来了！Rubin全面投产，算力暴涨5倍，砸掉智驾门槛All in物理世界",
-          "url": "https://wallstreetcn.com/articles/3762621",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 11时27分]"
-        },
-        {
-          "title": "百万粉丝博主发4条微博阅读量超百万被控损害华为商誉，二审定罪免罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32332548",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
