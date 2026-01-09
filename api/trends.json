@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T18:20:27.754342+08:00",
-  "total_titles_processed": 1702,
+  "generated_at": "2026-01-09T19:17:47.749885+08:00",
+  "total_titles_processed": 1805,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             5,
             17,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 18时20分]"
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 19时17分]"
         },
         {
           "title": "鸿蒙智行首款MPV智界V9亮点预告",
