@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T15:17:31.295946+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2026-01-10T16:23:13.932242+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             10,
             14,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 15时17分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 16时23分]"
         },
         {
           "title": "华为Mate 70系列直降1800元",
