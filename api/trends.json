@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T19:18:20.859780+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2026-01-12T20:40:38.552440+08:00",
+  "total_titles_processed": 1581,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时28分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[16时28分 ~ 20时40分]"
         },
         {
           "title": "英伟达智驾挑战特斯拉？大摩：别慌，这场比拼结果毫无悬念…",
@@ -28,11 +28,12 @@
           "ranks": [
             12,
             6,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时28分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[16时28分 ~ 20时40分]"
         },
         {
           "title": "国务院：任命蒋成华为商务部国际贸易谈判副代表（副部长级）",
