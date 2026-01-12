@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T17:31:30.345028+08:00",
-  "total_titles_processed": 1272,
+  "generated_at": "2026-01-12T18:23:06.610484+08:00",
+  "total_titles_processed": 1364,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,25 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 17时31分]"
+          "appearance_count": 5,
+          "time_info": "[16时28分 ~ 18时23分]"
+        },
+        {
+          "title": "英伟达智驾挑战特斯拉？大摩：别慌，这场比拼结果毫无悬念…",
+          "url": "https://www.cls.cn/detail/2254623",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时28分 ~ 18时23分]"
         },
         {
           "title": "国务院：任命蒋成华为商务部国际贸易谈判副代表（副部长级）",
@@ -30,18 +44,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时47分 ~ 13时28分]"
-        },
-        {
-          "title": "英伟达智驾挑战特斯拉？大摩：别慌，这场比拼结果毫无悬念…",
-          "url": "https://www.cls.cn/detail/2254623",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 17时31分]"
         }
       ]
     }
