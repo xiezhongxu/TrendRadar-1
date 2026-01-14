@@ -1,79 +1,22 @@
 {
-  "generated_at": "2026-01-14T23:23:17.913211+08:00",
-  "total_titles_processed": 2227,
+  "generated_at": "2026-01-15T00:27:17.410873+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "前比亚迪老将赵长江官宣加入智界，曾放言鸿蒙智行 MPV「三年内无对手」，能做到吗？会给市场带来什么影响？",
-          "url": "https://www.zhihu.com/question/1994407929697236628",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14,
-            13,
-            10,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时25分]"
-        },
         {
           "title": "赛力斯三年半采购华为 750 亿元，如何看待这一数据？",
           "url": "https://www.zhihu.com/question/1994699990333953373",
           "source": "知乎",
           "ranks": [
-            20,
-            15,
-            17,
-            14,
-            12,
-            10,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时23分 ~ 23时23分]"
-        },
-        {
-          "title": "国产大模型新年动作频频：智谱联手华为开源新模型，MiniMax开源评测集",
-          "url": "https://wallstreetcn.com/livenews/3036711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时30分"
-        },
-        {
-          "title": "华为手机2025年重返中国市场第一",
-          "url": "https://wallstreetcn.com/livenews/3036654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 13时22分]"
-        },
-        {
-          "title": "智谱联合华为开源首个国产芯片训练的多模态SOTA模型",
-          "url": "https://wallstreetcn.com/livenews/3036524",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "00时27分"
         }
       ]
     }
