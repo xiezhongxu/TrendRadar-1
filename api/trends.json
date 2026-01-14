@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T16:26:46.709953+08:00",
-  "total_titles_processed": 1492,
+  "generated_at": "2026-01-14T17:26:55.340015+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 16时26分]"
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 17时26分]"
         },
         {
           "title": "华为手机2025年重返中国市场第一",
