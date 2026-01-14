@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T14:30:11.560036+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2026-01-14T15:24:06.746890+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "前比亚迪老将赵长江官宣加入智界，曾放言鸿蒙智行 MPV「三年内无对手」，能做到吗？会给市场带来什么影响？",
@@ -30,7 +30,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时44分 ~ 13时22分]"
+        },
+        {
+          "title": "赛力斯三年半采购华为 750 亿元，如何看待这一数据？",
+          "url": "https://www.zhihu.com/question/1994699990333953373",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 15时24分]"
         },
         {
           "title": "智谱联合华为开源首个国产芯片训练的多模态SOTA模型",
