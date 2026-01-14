@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T21:38:50.317414+08:00",
-  "total_titles_processed": 2017,
+  "generated_at": "2026-01-14T22:23:01.615037+08:00",
+  "total_titles_processed": 2126,
   "failed_sources": [],
   "trends": [
     {
@@ -33,11 +33,12 @@
             17,
             14,
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时23分 ~ 21时38分]"
+          "appearance_count": 12,
+          "time_info": "[15时23分 ~ 22时23分]"
         },
         {
           "title": "国产大模型新年动作频频：智谱联手华为开源新模型，MiniMax开源评测集",
