@@ -1,51 +1,7 @@
 {
-  "generated_at": "2026-01-15T23:23:09.117693+08:00",
-  "total_titles_processed": 2258,
+  "generated_at": "2026-01-16T00:31:46.971987+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "赛力斯三年半采购华为 750 亿元，如何看待这一数据？",
-          "url": "https://www.zhihu.com/question/1994699990333953373",
-          "source": "知乎",
-          "ranks": [
-            6,
-            10,
-            9,
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时21分]"
-        },
-        {
-          "title": "华为系高端轿跑打出组合拳",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E7%B3%BB%E9%AB%98%E7%AB%AF%E8%BD%BF%E8%B7%91%E6%89%93%E5%87%BA%E7%BB%84%E5%90%88%E6%8B%B3%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
-        },
-        {
-          "title": "华为余承东带队到访东风汽车",
-          "url": "https://www.toutiao.com/trending/7594435607054647302/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
