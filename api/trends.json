@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T19:17:48.328063+08:00",
-  "total_titles_processed": 1732,
+  "generated_at": "2026-01-16T20:38:06.831561+08:00",
+  "total_titles_processed": 1860,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时22分 ~ 19时17分]"
+          "appearance_count": 9,
+          "time_info": "[15时22分 ~ 20时38分]"
         },
         {
           "title": "赛力斯向华为交750亿“学费”",
@@ -95,7 +96,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         }
