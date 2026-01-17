@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T05:16:09.071527+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-01-18T06:17:43.253188+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "阿维塔回应“连续与15辆车碰撞”：辅助驾驶功能未激活",
@@ -27,8 +27,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[04时19分 ~ 06时17分]"
         }
       ]
     }
