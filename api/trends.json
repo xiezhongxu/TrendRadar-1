@@ -1,61 +1,22 @@
 {
-  "generated_at": "2026-01-18T23:17:16.768353+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2026-01-19T00:21:31.059358+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "阿维塔回应“连续与15辆车碰撞”：辅助驾驶功能未激活",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32408221",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            6,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[04时19分 ~ 22时16分]"
-        },
-        {
-          "title": "阿维塔通报“南宁15辆车连撞事故”：辅助驾驶功能未激活",
-          "url": "https://wallstreetcn.com/livenews/3039136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时17分]"
-        },
         {
           "title": "阿维塔回应南宁 15 车连撞事故称辅助驾驶未激活，还有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1995975261628429781",
           "source": "知乎",
           "ranks": [
-            12,
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时16分 ~ 23时17分]"
-        },
-        {
-          "title": "问界 M9 拿下年度 50 万级 SUV 销冠，将对高端豪华汽车市场带来什么影响？",
-          "url": "https://www.zhihu.com/question/1995435058304133023",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时40分"
+          "time_info": "00时21分"
         }
       ]
     }
