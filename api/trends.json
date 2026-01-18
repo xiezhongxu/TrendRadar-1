@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T12:40:22.439742+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2026-01-18T13:21:40.084934+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时19分 ~ 12时40分]"
+          "appearance_count": 11,
+          "time_info": "[04时19分 ~ 13时21分]"
         },
         {
           "title": "阿维塔通报“南宁15辆车连撞事故”：辅助驾驶功能未激活",
@@ -40,7 +40,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         }
