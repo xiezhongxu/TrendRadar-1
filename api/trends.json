@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-18T09:29:17.063325+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-01-18T11:44:11.175286+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
       "match_count": 2,
       "titles": [
+        {
+          "title": "阿维塔回应“连续与15辆车碰撞”：辅助驾驶功能未激活",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32408221",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时19分 ~ 11时44分]"
+        },
         {
           "title": "阿维塔通报“南宁15辆车连撞事故”：辅助驾驶功能未激活",
           "url": "https://wallstreetcn.com/livenews/3039136",
@@ -19,19 +32,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时20分 ~ 07时17分]"
-        },
-        {
-          "title": "阿维塔回应“连续与15辆车碰撞”：辅助驾驶功能未激活",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32408221",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时19分 ~ 09时29分]"
         }
       ]
     }
