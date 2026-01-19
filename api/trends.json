@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T05:17:48.455421+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-01-20T06:19:15.979147+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时19分]"
         },
         {
           "title": "鸿蒙智行回应重庆一台尊界S800起火",
