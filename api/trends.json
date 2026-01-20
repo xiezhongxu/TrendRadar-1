@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-01-20T23:28:47.105607+08:00",
-  "total_titles_processed": 2113,
+  "generated_at": "2026-01-21T00:31:44.920705+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "2025 年中国手机市场数据出炉，华为全年第一，苹果第二，vivo 、小米及 OPPO 分列三四五，如何解读？",
-          "url": "https://www.zhihu.com/question/1994879091791385576",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 09时22分]"
-        },
-        {
-          "title": "鸿蒙智行回应重庆一台尊界S800起火",
-          "url": "https://www.toutiao.com/trending/7595912986172276778/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 05时17分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
