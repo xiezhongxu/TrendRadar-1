@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T19:21:57.630643+08:00",
-  "total_titles_processed": 1780,
+  "generated_at": "2026-01-28T20:42:33.789642+08:00",
+  "total_titles_processed": 1909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "个人所得税 App 鸿蒙版已上架华为应用市场，这对于 HarmonyOS 生态发展意味着什么？",
@@ -22,13 +22,24 @@
           "time_info": "[11时42分 ~ 19时21分]"
         },
         {
+          "title": "岚图汽车发布2026年新产品规划，全系搭载L3智驾",
+          "url": "https://wallstreetcn.com/livenews/3045590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "新东方第二季度调整后每ADS收益0.45美元，市场预估0.33美元。 第二季度净营收11.9亿美元，市场预估11.6亿美元。 第二季度经营利润6,630万美元，市场预估3,340万美元。 第二季度资本支出2,370万美元。 预计第三季度净营收13.1亿美元至13.5亿美元，市场预估13.2亿美元。",
           "url": "https://wallstreetcn.com/livenews/3045514",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         }
