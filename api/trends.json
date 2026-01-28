@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T21:45:59.851261+08:00",
-  "total_titles_processed": 2001,
+  "generated_at": "2026-01-28T22:27:14.960700+08:00",
+  "total_titles_processed": 2073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "个人所得税 App 鸿蒙版已上架华为应用市场，这对于 HarmonyOS 生态发展意味着什么？",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时42分 ~ 19时21分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将推出Ads Decoded播客，旨在让广告主直接与打造 Google Ads 的团队成员建立联系。",
+          "url": "https://flash.jin10.com/detail/20260128220815725800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "岚图汽车发布2026年新产品规划，全系搭载L3智驾",
