@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-28T09:25:12.611940+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-01-28T11:43:05.080760+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "个人所得税 App 鸿蒙版已上架华为应用市场，这对于 HarmonyOS 生态发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1998430058478604664",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
