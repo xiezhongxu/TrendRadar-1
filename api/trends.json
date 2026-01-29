@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T22:39:40.336107+08:00",
-  "total_titles_processed": 2147,
+  "generated_at": "2026-01-29T23:32:57.617394+08:00",
+  "total_titles_processed": 2234,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "马斯克：特斯拉“有望”在4月份首发下一代Roadster。",
@@ -25,20 +25,32 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
+        },
+        {
+          "title": "华为手机全系降价 最高降4000元",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E5%85%A8%E7%B3%BB%E9%99%8D%E4%BB%B7+%E6%9C%80%E9%AB%98%E9%99%8D4000%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "华为手机春节最高降价4000元",
           "url": "https://www.toutiao.com/trending/7600076124156067859/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 22时39分]"
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时32分]"
         },
         {
           "title": "华为官网开启春节限时优惠 购买指定产品最高可优惠4000元",
