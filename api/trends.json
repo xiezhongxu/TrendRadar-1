@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T03:29:26.907789+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-01-30T04:26:58.051254+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时26分]"
         },
         {
           "title": "华为手机春节最高降价4000元",
@@ -26,8 +26,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时26分]"
         }
       ]
     }
