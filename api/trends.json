@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T21:54:18.632476+08:00",
-  "total_titles_processed": 2007,
+  "generated_at": "2026-01-30T22:36:18.612268+08:00",
+  "total_titles_processed": 2094,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "url": "https://www.toutiao.com/trending/7600051521522401330/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 22时36分]"
         },
         {
           "title": "尊界S800智驾中撞上环卫工人",
