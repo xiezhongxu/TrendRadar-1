@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T04:26:11.678600+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-01-31T05:25:45.544269+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             21,
             15,
             28,
-            22
+            22,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 05时25分]"
         },
         {
           "title": "华为折叠屏频频被“冻坏”？客服回应",
