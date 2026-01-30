@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T07:23:40.725418+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-01-30T09:46:57.526838+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E5%85%A8%E7%B3%BB%E9%99%8D%E4%BB%B7+%E6%9C%80%E9%AB%98%E9%99%8D4000%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 09时46分]"
         },
         {
           "title": "华为手机春节最高降价4000元",
