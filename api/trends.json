@@ -1,41 +1,7 @@
 {
-  "generated_at": "2026-01-31T23:20:35.314629+08:00",
-  "total_titles_processed": 1530,
+  "generated_at": "2026-02-01T00:23:44.935785+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "华为Mate新机来了",
-          "url": "https://www.toutiao.com/trending/7600051521522401330/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            15,
-            28,
-            22,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时22分]"
-        },
-        {
-          "title": "华为折叠屏频频被“冻坏”？客服回应",
-          "url": "https://www.toutiao.com/trending/7600535017303490566/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
