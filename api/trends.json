@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T15:36:06.900534+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-02-01T16:28:53.615543+08:00",
+  "total_titles_processed": 916,
   "failed_sources": [],
   "trends": [
     {
@@ -8,29 +8,31 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "问界汽车：1月交付40016辆，同比增长83%。",
-          "url": "https://wallstreetcn.com/livenews/3047761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时59分 ~ 15时36分]"
-        },
-        {
           "title": "华为云智慧医疗专区开放公测",
           "url": "https://wallstreetcn.com/livenews/3047757",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
             5,
-            8
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 16时28分]"
+        },
+        {
+          "title": "问界汽车：1月交付40016辆，同比增长83%。",
+          "url": "https://wallstreetcn.com/livenews/3047761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时35分 ~ 15时36分]"
+          "time_info": "[13时59分 ~ 16时28分]"
         },
         {
           "title": "鸿蒙智行2026年1月累计交付57915台，同比增长65.6%。",
