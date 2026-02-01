@@ -1,68 +1,22 @@
 {
-  "generated_at": "2026-02-01T23:21:45.526948+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-02-02T00:25:41.047221+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "华为云智慧医疗专区开放公测",
-          "url": "https://wallstreetcn.com/livenews/3047757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            8,
-            19,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时35分 ~ 18时22分]"
-        },
-        {
-          "title": "问界汽车：1月交付40016辆，同比增长83%。",
-          "url": "https://wallstreetcn.com/livenews/3047761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            16,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时59分 ~ 18时22分]"
-        },
-        {
-          "title": "鸿蒙智行2026年1月累计交付57915台，同比增长65.6%。",
-          "url": "https://wallstreetcn.com/livenews/3047737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 15时36分]"
-        },
         {
           "title": "华为云发布业界首个智慧病理云边端解决方案",
           "url": "https://wallstreetcn.com/livenews/3047822",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 23时21分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     }
