@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T16:28:53.615543+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-02-01T17:28:31.897481+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             5,
             8,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 16时28分]"
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 17时28分]"
         },
         {
           "title": "问界汽车：1月交付40016辆，同比增长83%。",
@@ -28,11 +29,12 @@
           "ranks": [
             2,
             5,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 16时28分]"
+          "appearance_count": 5,
+          "time_info": "[13时59分 ~ 17时28分]"
         },
         {
           "title": "鸿蒙智行2026年1月累计交付57915台，同比增长65.6%。",
