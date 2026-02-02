@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T17:44:17.177838+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2026-02-02T18:41:42.348490+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             7,
             15,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时52分 ~ 17时44分]"
+          "appearance_count": 10,
+          "time_info": "[09时52分 ~ 18时41分]"
         },
         {
           "title": "华为云发布业界首个智慧病理云边端解决方案",
@@ -45,8 +46,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 17时44分]"
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 18时41分]"
         },
         {
           "title": "余承东官宣问界M6即将登场",
@@ -77,7 +78,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         }
