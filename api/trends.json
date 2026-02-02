@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T14:02:21.785514+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2026-02-02T15:47:05.003271+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             3,
             5,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时52分 ~ 14时02分]"
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 15时47分]"
         },
         {
           "title": "余承东官宣问界M6即将登场",
