@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T22:53:09.872729+08:00",
-  "total_titles_processed": 1749,
+  "generated_at": "2026-02-02T23:35:55.087961+08:00",
+  "total_titles_processed": 1812,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             8,
             14,
             12,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时39分 ~ 22时53分]"
+          "appearance_count": 12,
+          "time_info": "[16时39分 ~ 23时35分]"
         },
         {
           "title": "华为云发布业界首个智慧病理云边端解决方案",
