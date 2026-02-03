@@ -1,52 +1,7 @@
 {
-  "generated_at": "2026-02-03T23:46:03.305441+08:00",
-  "total_titles_processed": 1988,
+  "generated_at": "2026-02-04T00:49:05.406265+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何看待权威第三方公布的 2026 年 1 月华为中国手机市场份额第一？",
-          "url": "https://www.zhihu.com/question/2001595690313348791",
-          "source": "知乎",
-          "ranks": [
-            1,
-            6,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时52分 ~ 17时37分]"
-        },
-        {
-          "title": "多家车企新年首月销量出炉，鸿蒙智行交付增长超六成，理想交付新车超 2.7 万辆，如何评价各家表现？",
-          "url": "https://www.zhihu.com/question/2001246362277258317",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 01时38分]"
-        },
-        {
-          "title": "问界M6汽车官图发布",
-          "url": "https://www.toutiao.com/trending/7601345846491467327/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 14时45分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
