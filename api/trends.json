@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T09:52:20.544236+08:00",
-  "total_titles_processed": 713,
+  "generated_at": "2026-02-03T12:13:32.421009+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 12时13分]"
         },
         {
           "title": "多家车企新年首月销量出炉，鸿蒙智行交付增长超六成，理想交付新车超 2.7 万辆，如何评价各家表现？",
