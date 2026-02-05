@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-05T19:33:34.137394+08:00",
-  "total_titles_processed": 1745,
+  "generated_at": "2026-02-05T20:55:21.040866+08:00",
+  "total_titles_processed": 1866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "华为MateX7微博之夜生图直出",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMateX7%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E7%94%9F%E5%9B%BE%E7%9B%B4%E5%87%BA%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
         {
           "title": "鸿蒙智行：全新问界M7累计交付量突破10万台。",
           "url": "https://wallstreetcn.com/livenews/3050563",
