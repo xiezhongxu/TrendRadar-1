@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-07T09:45:05.723445+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-02-07T12:06:24.531873+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为今年第一场发布会在马德里举行",
+          "url": "https://www.toutiao.com/trending/7603263667316932646/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
