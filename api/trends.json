@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T10:05:40.688798+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2026-02-10T13:01:53.325185+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "只要华为不跪产品就不贵",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时49分 ~ 07时35分]"
+        },
+        {
+          "title": "全球首个三位一体智驾实验室建成",
+          "url": "https://www.douyin.com/hot/2395604",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     }
