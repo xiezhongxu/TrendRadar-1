@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T06:37:01.854472+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-02-11T07:36:05.682705+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "余承东：问界M9是新能源车保值率第一",
@@ -13,11 +13,23 @@
           "source": "今日头条",
           "ranks": [
             5,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 06时37分]"
+          "appearance_count": 6,
+          "time_info": "[03时10分 ~ 07时36分]"
+        },
+        {
+          "title": "葛卫东耗资10亿“做多”江淮汽车 尊界“产品大年”或成破局关键｜速读公告",
+          "url": "https://www.cls.cn/detail/2286355",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
         }
       ]
     }
