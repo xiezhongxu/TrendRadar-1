@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-11T01:59:18.671351+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-02-11T03:11:14.319991+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "余承东：问界M9是新能源车保值率第一",
+          "url": "https://www.toutiao.com/trending/7605075450944880646/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 03时11分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
