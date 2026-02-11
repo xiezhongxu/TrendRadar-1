@@ -1,59 +1,22 @@
 {
-  "generated_at": "2026-02-11T22:50:35.623460+08:00",
-  "total_titles_processed": 1858,
+  "generated_at": "2026-02-12T00:10:03.967280+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "余承东：问界M9是新能源车保值率第一",
-          "url": "https://www.toutiao.com/trending/7605075450944880646/",
-          "source": "今日头条",
+          "title": "华为余承东宣布问界两年内将冲刺 200 万辆总销量，这一目标前景如何？可能通过哪些策略实现？",
+          "url": "https://www.zhihu.com/question/2004559757655168835",
+          "source": "知乎",
           "ranks": [
-            5,
-            30,
-            28
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 07时36分]"
-        },
-        {
-          "title": "网易第四季度营收275亿元人民币，市场预估287.9亿元人民币。 第四季度毛利177亿元人民币，市场预估182.5亿元人民币。 第四季度经调整每股ADS持续经营净收益10.95元人民币，市场预估14.07元人民币。 第四季度在线游戏服务净收入219.7亿元人民币，市场预估234.2亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3053583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        },
-        {
-          "title": "葛卫东耗资10亿“做多”江淮汽车 尊界“产品大年”或成破局关键｜速读公告",
-          "url": "https://www.cls.cn/detail/2286355",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 10时01分]"
-        },
-        {
-          "title": "鸿蒙智行：起诉“我是大彬同学”获赔150万",
-          "url": "https://www.cls.cn/detail/2286865",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时42分]"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         }
       ]
     }
