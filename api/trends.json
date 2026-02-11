@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T05:31:45.645808+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-02-12T06:27:13.910901+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 06时27分]"
         },
         {
           "title": "Meta Platforms(META.O)：推出“Dear Algo”，这是一项由人工智能驱动的功能，允许用户告知 Threads平台自己希望在一段时间内看到更多或更少特定主题的内容。",
