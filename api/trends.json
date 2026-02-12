@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T14:03:23.970207+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-02-12T15:50:23.208996+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "华为余承东宣布问界两年内将冲刺 200 万辆总销量，这一目标前景如何？可能通过哪些策略实现？",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时09分 ~ 07时29分]"
+        },
+        {
+          "title": "一线实探！华为小米已成新“年货” 后国补时代市场热度几何？|传真",
+          "url": "https://www.cls.cn/detail/2287992",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         },
         {
           "title": "Meta Platforms(META.O)：推出“Dear Algo”，这是一项由人工智能驱动的功能，允许用户告知 Threads平台自己希望在一段时间内看到更多或更少特定主题的内容。",
