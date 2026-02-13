@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T19:30:09.262103+08:00",
-  "total_titles_processed": 1705,
+  "generated_at": "2026-02-13T20:52:25.283945+08:00",
+  "total_titles_processed": 1829,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 19时30分]"
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 20时52分]"
         },
         {
           "title": "华为内部反腐通报",
@@ -28,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时36分 ~ 19时30分]"
+          "appearance_count": 4,
+          "time_info": "[18时36分 ~ 20时52分]"
         },
         {
           "title": "华为Mate80官宣春晚竖屏直播合作伙伴",
