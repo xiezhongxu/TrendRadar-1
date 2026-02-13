@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T22:01:40.864253+08:00",
-  "total_titles_processed": 1950,
+  "generated_at": "2026-02-13T22:52:22.499960+08:00",
+  "total_titles_processed": 2041,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             24,
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时36分 ~ 22时01分]"
+          "appearance_count": 6,
+          "time_info": "[18时36分 ~ 22时52分]"
         },
         {
           "title": "华为原终端BG多媒体技术部部长被捕",
