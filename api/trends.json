@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-13T20:52:25.283945+08:00",
-  "total_titles_processed": 1829,
+  "generated_at": "2026-02-13T22:01:40.864253+08:00",
+  "total_titles_processed": 1950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
       "match_count": 6,
       "titles": [
+        {
+          "title": "华为内部反腐通报",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%86%85%E9%83%A8%E5%8F%8D%E8%85%90%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时36分 ~ 22时01分]"
+        },
         {
           "title": "华为原终端BG多媒体技术部部长被捕",
           "url": "https://www.toutiao.com/trending/7606223301510234155/",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时40分 ~ 20时52分]"
-        },
-        {
-          "title": "华为内部反腐通报",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%86%85%E9%83%A8%E5%8F%8D%E8%85%90%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时36分 ~ 20时52分]"
         },
         {
           "title": "华为Mate80官宣春晚竖屏直播合作伙伴",
