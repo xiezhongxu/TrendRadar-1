@@ -1,58 +1,7 @@
 {
-  "generated_at": "2026-02-14T23:22:34.208492+08:00",
-  "total_titles_processed": 1632,
+  "generated_at": "2026-02-15T00:25:25.903988+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "华为内部反腐通报，原终端 BG 多媒体技术部部长被批准逮捕，具体情况如何？他将承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/2005702991718605355",
-          "source": "知乎",
-          "ranks": [
-            9,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时08分 ~ 18时23分]"
-        },
-        {
-          "title": "华为内部反腐通报",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%86%85%E9%83%A8%E5%8F%8D%E8%85%90%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            15,
-            18,
-            23,
-            29,
-            30,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 07时28分]"
-        },
-        {
-          "title": "华为反腐通报：原终端BG多媒体技术部部长邓某被批捕，涉嫌非国家工作人员受贿罪",
-          "url": "https://wallstreetcn.com/livenews/3055513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 20时40分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
