@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T16:28:14.182241+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-02-14T17:28:18.626472+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 16时28分]"
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 17时28分]"
         },
         {
           "title": "华为内部反腐通报",
