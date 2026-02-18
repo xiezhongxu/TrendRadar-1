@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T19:37:03.263325+08:00",
-  "total_titles_processed": 1530,
+  "generated_at": "2026-02-18T20:57:36.218091+08:00",
+  "total_titles_processed": 1647,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             10,
             11,
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时55分 ~ 19时37分]"
+          "appearance_count": 26,
+          "time_info": "[00时55分 ~ 20时57分]"
         },
         {
           "title": "千问3.5引爆全球AI产业链，英伟达、华为昇腾、AMD、苹果等第一时间适配",
