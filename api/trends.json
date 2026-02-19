@@ -1,43 +1,7 @@
 {
-  "generated_at": "2026-02-19T23:45:03.848493+08:00",
-  "total_titles_processed": 1843,
+  "generated_at": "2026-02-20T00:47:41.705251+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "央视春晚开团,智驾被点名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350754&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BC%80%E5%9B%A2%2C%E6%99%BA%E9%A9%BE%E8%A2%AB%E7%82%B9%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            20,
-            25,
-            27,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时00分 ~ 16时40分]"
-        },
-        {
-          "title": "法国汽车零部件供应商佛瑞亚（FRVIA.FP）获得一份多年期项目，将向奇瑞旗下智界供应数十万套座椅。 价值数亿欧元，计划2026年8月份开始生产。",
-          "url": "https://wallstreetcn.com/livenews/3056407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 02时49分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
