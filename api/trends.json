@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T15:52:35.744774+08:00",
-  "total_titles_processed": 1240,
+  "generated_at": "2026-02-19T16:40:01.614068+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             20,
             25,
             27,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时00分 ~ 15时52分]"
+          "appearance_count": 19,
+          "time_info": "[01时00分 ~ 16时40分]"
         },
         {
           "title": "法国汽车零部件供应商佛瑞亚（FRVIA.FP）获得一份多年期项目，将向奇瑞旗下智界供应数十万套座椅。 价值数亿欧元，计划2026年8月份开始生产。",
