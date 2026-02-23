@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T19:38:15.225537+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2026-02-23T21:11:22.614921+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
@@ -24,22 +24,24 @@
           "url": "https://www.toutiao.com/trending/7608861809327947795/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时44分 ~ 16时45分]"
+          "appearance_count": 3,
+          "time_info": "[16时44分 ~ 21时11分]"
         },
         {
           "title": "问界汽车回应惠州车辆起火",
           "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%83%A0%E5%B7%9E%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 19时38分]"
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 21时11分]"
         },
         {
           "title": "问界M9起火声明",
