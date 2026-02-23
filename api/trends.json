@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T04:41:27.050027+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-02-24T05:41:59.848622+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 05时41分]"
         },
         {
           "title": "疑似新款问界M9谍照曝光",
