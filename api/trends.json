@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-23T21:11:22.614921+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-02-23T22:18:05.440921+08:00",
+  "total_titles_processed": 1535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
       "match_count": 5,
       "titles": [
+        {
+          "title": "问界汽车回应惠州车辆起火",
+          "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%83%A0%E5%B7%9E%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时37分 ~ 22时18分]"
+        },
         {
           "title": "鸿蒙智行问界M6银色实车现身",
           "url": "https://www.toutiao.com/trending/7609630522524925958/",
@@ -30,18 +43,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时44分 ~ 21时11分]"
-        },
-        {
-          "title": "问界汽车回应惠州车辆起火",
-          "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%83%A0%E5%B7%9E%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时37分 ~ 21时11分]"
         },
         {
           "title": "问界M9起火声明",
