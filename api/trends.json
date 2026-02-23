@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T05:41:59.848622+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-02-24T06:38:29.782806+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,20 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 05时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 06时38分]"
         },
         {
           "title": "疑似新款问界M9谍照曝光",
           "url": "https://www.toutiao.com/trending/7610039636349455923/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 06时38分]"
         }
       ]
     }
