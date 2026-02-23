@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T00:53:49.660867+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-24T02:00:51.540649+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "问界汽车回应惠州车辆起火",
+          "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%83%A0%E5%B7%9E%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时00分]"
+        },
+        {
           "title": "疑似新款问界M9谍照曝光",
           "url": "https://www.toutiao.com/trending/7610039636349455923/",
           "source": "今日头条",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        },
-        {
-          "title": "问界汽车回应惠州车辆起火",
-          "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%83%A0%E5%B7%9E%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 1,
