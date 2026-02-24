@@ -1,74 +1,7 @@
 {
-  "generated_at": "2026-02-24T22:12:53.129678+08:00",
-  "total_titles_processed": 1846,
+  "generated_at": "2026-02-25T00:01:07.148069+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "问界汽车回应惠州车辆起火",
-          "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%83%A0%E5%B7%9E%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 07时42分]"
-        },
-        {
-          "title": "史上第二高！华为2025年销售收入超8800亿元",
-          "url": "https://www.cls.cn/detail/2293382",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时31分 ~ 20时58分]"
-        },
-        {
-          "title": "华为2025年销售收入超8800亿元",
-          "url": "https://www.toutiao.com/trending/7609335775570395162/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时59分 ~ 15时53分]"
-        },
-        {
-          "title": "疑似新款问界M9谍照曝光",
-          "url": "https://www.toutiao.com/trending/7610039636349455923/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 06时38分]"
-        },
-        {
-          "title": "华为2025年销售收入超过8800亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3057836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
