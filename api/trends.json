@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T13:58:10.379589+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-02-24T15:00:34.774192+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "问界汽车回应惠州车辆起火",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时53分 ~ 07时42分]"
+        },
+        {
+          "title": "华为2025年销售收入超8800亿元",
+          "url": "https://www.toutiao.com/trending/7609335775570395162/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
         },
         {
           "title": "疑似新款问界M9谍照曝光",
