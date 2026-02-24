@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T17:48:59.516918+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2026-02-24T18:44:52.071980+08:00",
+  "total_titles_processed": 1545,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[00时53分 ~ 07时42分]"
         },
         {
+          "title": "史上第二高！华为2025年销售收入超8800亿元",
+          "url": "https://www.cls.cn/detail/2293382",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 18时44分]"
+        },
+        {
           "title": "华为2025年销售收入超8800亿元",
           "url": "https://www.toutiao.com/trending/7609335775570395162/",
           "source": "今日头条",
@@ -31,17 +43,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时59分 ~ 15时53分]"
-        },
-        {
-          "title": "史上第二高！华为2025年销售收入超8800亿元",
-          "url": "https://www.cls.cn/detail/2293382",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 17时48分]"
         },
         {
           "title": "疑似新款问界M9谍照曝光",
