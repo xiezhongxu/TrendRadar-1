@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T18:48:49.276730+08:00",
-  "total_titles_processed": 1510,
+  "generated_at": "2026-02-25T19:38:58.292336+08:00",
+  "total_titles_processed": 1577,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             6,
             10,
             8,
-            9
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时59分 ~ 18时48分]"
+          "appearance_count": 7,
+          "time_info": "[13时59分 ~ 19时38分]"
         },
         {
           "title": "尊界法务部：自媒体博主诋毁尊界，一审被判赔30万元",
@@ -40,11 +41,12 @@
           "url": "https://www.zhihu.com/question/2009592449786474884",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时48分]"
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 19时38分]"
         }
       ]
     }
