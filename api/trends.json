@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T05:32:56.886690+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-02-26T06:30:22.665527+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             5,
             19,
-            18
+            18,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 06时30分]"
         },
         {
           "title": "默茨访华为何要去杭州",
@@ -41,11 +42,12 @@
             9,
             15,
             8,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 06时30分]"
         }
       ]
     }
