@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T22:10:48.693799+08:00",
-  "total_titles_processed": 1876,
+  "generated_at": "2026-02-26T23:52:10.139261+08:00",
+  "total_titles_processed": 2000,
   "failed_sources": [],
   "trends": [
     {
@@ -59,8 +59,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 22时10分]"
+          "appearance_count": 4,
+          "time_info": "[20时58分 ~ 23时52分]"
         },
         {
           "title": "华为云码道公测版发布 覆盖代码生成等AI编程技术",
