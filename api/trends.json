@@ -1,70 +1,7 @@
 {
-  "generated_at": "2026-02-27T23:35:57.984075+08:00",
-  "total_titles_processed": 2108,
+  "generated_at": "2026-02-28T00:37:31.914425+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
-          "url": "https://www.cls.cn/detail/2296230",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时26分]"
-        },
-        {
-          "title": "【早报】一夜蒸发超万亿元，英伟达创10个月最大单日跌幅；华为发布代码“神器”",
-          "url": "https://www.cls.cn/detail/2296586",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时26分 ~ 15时43分]"
-        },
-        {
-          "title": "如何评价消息称 DeepSeek V4 打破常规优先适配华为，冷落英伟达 AMD？会带来什么影响？",
-          "url": "https://www.zhihu.com/question/2010465986483025153",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "媒体：华为走出去已经赢了一半",
-          "url": "https://www.toutiao.com/trending/7611360358808829958/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "华胜天成：公司与华为的合作所确认收入占公司全球业务收入比例较小",
-          "url": "https://wallstreetcn.com/livenews/3060183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
