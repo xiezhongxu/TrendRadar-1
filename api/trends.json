@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T20:41:16.746105+08:00",
-  "total_titles_processed": 1613,
+  "generated_at": "2026-03-01T21:37:39.924899+08:00",
+  "total_titles_processed": 1702,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3061169",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时37分]"
         },
         {
           "title": "华为首次在海外展示最新的Atlas 950 SuperPoD等多个型号超节点产品和解决方案",
@@ -25,7 +26,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         }
