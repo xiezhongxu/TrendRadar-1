@@ -1,40 +1,7 @@
 {
-  "generated_at": "2026-03-02T23:39:30.291829+08:00",
-  "total_titles_processed": 2143,
+  "generated_at": "2026-03-03T00:41:03.642788+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "2月车市“众生相”：比亚迪销量首现“海外超国内” 华为小米新动作不断",
-          "url": "https://www.cls.cn/detail/2299535",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时40分 ~ 23时39分]"
-        },
-        {
-          "title": "小鹏第二代VLA妈妈都爱开的国民智驾",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8F%E7%AC%AC%E4%BA%8C%E4%BB%A3VLA%E5%A6%88%E5%A6%88%E9%83%BD%E7%88%B1%E5%BC%80%E7%9A%84%E5%9B%BD%E6%B0%91%E6%99%BA%E9%A9%BE%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时53分 ~ 15时47分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
