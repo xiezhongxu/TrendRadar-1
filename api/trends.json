@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T17:44:45.946303+08:00",
-  "total_titles_processed": 1532,
+  "generated_at": "2026-03-02T18:40:43.712648+08:00",
+  "total_titles_processed": 1623,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时40分]"
         },
         {
           "title": "小鹏第二代VLA妈妈都爱开的国民智驾",
