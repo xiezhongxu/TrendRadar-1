@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T02:43:33.167514+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-03-05T03:36:52.386275+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "开年即迎“颠覆性”技术！华为896线激光雷达上车 比亚迪将发第二代刀片电池",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时36分]"
         },
         {
           "title": "华为发布AI数据平台，加速企业AI落地应用",
@@ -24,11 +24,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 02时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时36分 ~ 03时36分]"
+        },
+        {
+          "title": "新款尊界S800来了",
+          "url": "https://www.toutiao.com/trending/7613369666517487113/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
         }
       ]
     }
