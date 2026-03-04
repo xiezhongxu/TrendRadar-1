@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T18:33:50.103726+08:00",
-  "total_titles_processed": 1742,
+  "generated_at": "2026-03-04T19:28:29.025259+08:00",
+  "total_titles_processed": 1833,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "14时42分"
         },
         {
+          "title": "开年即迎“颠覆性”技术！华为896线激光雷达上车 比亚迪将发第二代刀片电池",
+          "url": "https://www.cls.cn/detail/2302544",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时28分]"
+        },
+        {
           "title": "问界M6全系售价曝光",
           "url": "https://www.toutiao.com/trending/7612490937646579738/",
           "source": "今日头条",
@@ -32,16 +45,17 @@
           "time_info": "[04时29分 ~ 09时46分]"
         },
         {
-          "title": "开年即迎“颠覆性”技术！华为896线激光雷达上车 比亚迪将发第二代刀片电池",
-          "url": "https://www.cls.cn/detail/2302544",
+          "title": "雷军两会建言：加快推动人形机器人“上岗” 关注智驾时代安全体系与人才培育",
+          "url": "https://www.cls.cn/detail/2302307",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            12,
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时33分]"
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时28分]"
         },
         {
           "title": "华为乾崑发布896线激光雷达",
@@ -66,18 +80,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时35分 ~ 17时37分]"
-        },
-        {
-          "title": "雷军两会建言：加快推动人形机器人“上岗” 关注智驾时代安全体系与人才培育",
-          "url": "https://www.cls.cn/detail/2302307",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时33分]"
         },
         {
           "title": "尊界首搭双光路图像级激光雷达",
@@ -131,7 +133,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -142,7 +144,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
