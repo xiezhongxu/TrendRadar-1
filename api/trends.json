@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T15:40:42.324865+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-03-05T16:37:23.405301+08:00",
+  "total_titles_processed": 1469,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             1,
             2,
             3,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 15时40分]"
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 16时37分]"
         },
         {
           "title": "华为发布AI数据平台，加速企业AI落地应用",
