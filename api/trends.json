@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T07:27:05.269152+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-03-05T09:49:17.529090+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "开年即迎“颠覆性”技术！华为896线激光雷达上车 比亚迪将发第二代刀片电池",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时39分 ~ 07时27分]"
+        },
+        {
+          "title": "代表雷军建言「驾考增加智驾内容」，你赞同吗？若调整，你觉得该考些什么？",
+          "url": "https://www.zhihu.com/question/2012468105473991401",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
         },
         {
           "title": "华为发布AI数据平台，加速企业AI落地应用",
