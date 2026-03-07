@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-03-07T23:20:49.188805+08:00",
-  "total_titles_processed": 1734,
+  "generated_at": "2026-03-08T00:23:54.151149+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "男子犯困开智驾连撞30米水马",
-          "url": "https://www.toutiao.com/trending/7614297512614264842/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 14时36分]"
-        },
-        {
-          "title": "男子犯困开智驾连撞30米水马",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%8A%AF%E5%9B%B0%E5%BC%80%E6%99%BA%E9%A9%BE%E8%BF%9E%E6%92%9E30%E7%B1%B3%E6%B0%B4%E9%A9%AC",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 14时36分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
