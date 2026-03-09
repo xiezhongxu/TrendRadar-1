@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T18:42:14.740332+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2026-03-09T19:33:27.582822+08:00",
+  "total_titles_processed": 1595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "最高法工作报告举例“人肉开盒”、酒后“智驾”，释放依法惩治新型犯罪鲜明信号",
@@ -19,8 +19,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时14分 ~ 18时42分]"
+          "appearance_count": 11,
+          "time_info": "[12时14分 ~ 19时33分]"
         },
         {
           "title": "华为Mate80销量国产第一",
@@ -31,8 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时42分]"
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 19时33分]"
         },
         {
           "title": "醉酒后用智驾开车行不行？最高法明确",
@@ -40,11 +40,23 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 18时42分]"
+          "appearance_count": 4,
+          "time_info": "[17时45分 ~ 19时33分]"
+        },
+        {
+          "title": "何小鹏：应该向华为、苹果等企业学习",
+          "url": "https://www.toutiao.com/trending/7615177625836736026/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         }
       ]
     }
