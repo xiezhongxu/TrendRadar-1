@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T17:45:47.838134+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2026-03-09T18:42:14.740332+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时14分 ~ 17时45分]"
+          "appearance_count": 10,
+          "time_info": "[12时14分 ~ 18时42分]"
         },
         {
           "title": "华为Mate80销量国产第一",
@@ -31,19 +31,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时45分]"
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 18时42分]"
         },
         {
           "title": "醉酒后用智驾开车行不行？最高法明确",
           "url": "https://www.baidu.com/s?wd=%E9%86%89%E9%85%92%E5%90%8E%E7%94%A8%E6%99%BA%E9%A9%BE%E5%BC%80%E8%BD%A6%E8%A1%8C%E4%B8%8D%E8%A1%8C%EF%BC%9F%E6%9C%80%E9%AB%98%E6%B3%95%E6%98%8E%E7%A1%AE",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 18时42分]"
         }
       ]
     }
