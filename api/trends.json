@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T00:47:11.167605+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-12T01:46:29.435267+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时46分]"
         },
         {
           "title": "鸿蒙智行尚界 H5 拿下「中汽测评」20 万元内唯一超五星安全认证，你会选择购买吗？",
           "url": "https://www.zhihu.com/question/2014794910386107450",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时46分]"
         }
       ]
     }
