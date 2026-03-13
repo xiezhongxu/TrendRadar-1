@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T18:33:43.907449+08:00",
-  "total_titles_processed": 1599,
+  "generated_at": "2026-03-13T19:29:09.776717+08:00",
+  "total_titles_processed": 1688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "华为全场景进入全链生态时代，对普通人生活有何价值？",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时47分 ~ 16时36分]"
+        },
+        {
+          "title": "华为回应15599元折叠屏用3天黑屏",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%9B%9E%E5%BA%9415599%E5%85%83%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%94%A83%E5%A4%A9%E9%BB%91%E5%B1%8F%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 19时29分]"
         },
         {
           "title": "鸿蒙智行尚界 H5 拿下「中汽测评」20 万元内唯一超五星安全认证，你会选择购买吗？",
