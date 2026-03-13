@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T20:52:13.540759+08:00",
-  "total_titles_processed": 1812,
+  "generated_at": "2026-03-13T21:59:18.083527+08:00",
+  "total_titles_processed": 1924,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             17,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时28分 ~ 20时52分]"
+          "appearance_count": 5,
+          "time_info": "[19时28分 ~ 21时59分]"
         },
         {
           "title": "华为全场景进入全链生态时代，对普通人生活有何价值？",
