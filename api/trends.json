@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T13:43:25.525167+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2026-03-14T14:41:18.977957+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "华为回应15599元折叠屏用3天黑屏",
@@ -27,11 +27,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 14时41分]"
         },
         {
           "title": "享界粉白新色亮相上海AWE",
@@ -40,9 +41,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "多花1.5万买的智驾版不如普通版",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E8%8A%B11.5%E4%B8%87%E4%B9%B0%E7%9A%84%E6%99%BA%E9%A9%BE%E7%89%88%E4%B8%8D%E5%A6%82%E6%99%AE%E9%80%9A%E7%89%88%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         }
       ]
     }
