@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T14:41:18.977957+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-03-14T15:33:39.121029+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "华为回应15599元折叠屏用3天黑屏",
@@ -28,11 +28,12 @@
           "ranks": [
             2,
             11,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 14时41分]"
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 15时33分]"
         },
         {
           "title": "享界粉白新色亮相上海AWE",
@@ -52,9 +53,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "逛华为展看鸿蒙车",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%80%9B%E5%8D%8E%E4%B8%BA%E5%B1%95%E7%9C%8B%E9%B8%BF%E8%92%99%E8%BD%A6%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         }
       ]
     }
