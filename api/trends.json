@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T06:31:15.890892+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-03-18T07:29:45.590678+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "华为畅享 90 曝光，麒麟鸿蒙入局入门机，将如何搅动市场？",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "华为“第一境”落地！启境制定三年规划 首款车型预埋L3级架构",
+          "url": "https://www.cls.cn/detail/2316013",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         }
       ]
     }
