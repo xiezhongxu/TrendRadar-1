@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-18T00:02:48.958299+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-03-18T02:27:01.348163+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为畅享 90 曝光，麒麟鸿蒙入局入门机，将如何搅动市场？",
+          "url": "https://www.zhihu.com/question/2016557256355890931",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 02时27分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
