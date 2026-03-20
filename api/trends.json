@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T19:29:30.061481+08:00",
-  "total_titles_processed": 1723,
+  "generated_at": "2026-03-20T20:53:27.868836+08:00",
+  "total_titles_processed": 1847,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "华为新跑表将搭载全新立体悬浮天线架构",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时43分 ~ 15时44分]"
+        },
+        {
+          "title": "华为宣布成立传媒军团",
+          "url": "https://www.douyin.com/hot/2437376",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "华为成立传媒军团",
