@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T14:50:51.545854+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-03-20T15:44:07.205009+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "华为新跑表将搭载全新立体悬浮天线架构",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "智界V9诺贝尔奖材料MOFs上车",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%BA%E7%95%8CV9%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E6%9D%90%E6%96%99MOFs%E4%B8%8A%E8%BD%A6%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         },
         {
           "title": "华为成立传媒军团",
