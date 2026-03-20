@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T20:53:27.868836+08:00",
-  "total_titles_processed": 1847,
+  "generated_at": "2026-03-20T22:02:02.360930+08:00",
+  "total_titles_processed": 1955,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "12时12分"
         },
         {
+          "title": "华为宣布成立传媒军团",
+          "url": "https://www.douyin.com/hot/2437376",
+          "source": "抖音",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 22时02分]"
+        },
+        {
           "title": "智界V9诺贝尔奖材料MOFs上车",
           "url": "https://s.weibo.com/weibo?q=%23%E6%99%BA%E7%95%8CV9%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E6%9D%90%E6%96%99MOFs%E4%B8%8A%E8%BD%A6%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时43分 ~ 15时44分]"
-        },
-        {
-          "title": "华为宣布成立传媒军团",
-          "url": "https://www.douyin.com/hot/2437376",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
         },
         {
           "title": "华为成立传媒军团",
