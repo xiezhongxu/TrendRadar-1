@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T03:22:06.513585+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-03-22T04:22:46.516254+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
         },
         {
           "title": "华为云发布柔性智算操作系统FlexNPU",
@@ -26,8 +26,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
         },
         {
           "title": "华为重磅发布新一代算力芯片",
