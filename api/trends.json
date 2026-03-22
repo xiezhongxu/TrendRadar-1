@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T20:43:14.416997+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2026-03-22T21:42:25.389367+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时51分 ~ 20时43分]"
+          "appearance_count": 14,
+          "time_info": "[13时51分 ~ 21时42分]"
         },
         {
           "title": "华为云发布柔性智算操作系统FlexNPU",
