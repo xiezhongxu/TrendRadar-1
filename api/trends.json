@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T13:52:06.590482+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-03-22T14:46:07.594349+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             14,
             20,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 13时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 14时46分]"
         },
         {
           "title": "华为成立传媒军团，将聚焦 AIGC 全场景赋能等三大核心方向，如何看待这一布局？将会带来哪些改变？",
@@ -31,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 13时52分]"
+          "appearance_count": 7,
+          "time_info": "[09时55分 ~ 14时46分]"
         },
         {
           "title": "华为云发布柔性智算操作系统FlexNPU",
@@ -53,8 +54,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 14时46分]"
         },
         {
           "title": "华为重磅发布新一代算力芯片",
