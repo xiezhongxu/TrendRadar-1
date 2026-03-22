@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T12:18:14.534804+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2026-03-22T13:52:06.590482+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "华为发布新一代算力芯片昇腾950PR",
@@ -14,11 +14,25 @@
           "ranks": [
             5,
             14,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 12时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 13时52分]"
+        },
+        {
+          "title": "华为成立传媒军团，将聚焦 AIGC 全场景赋能等三大核心方向，如何看待这一布局？将会带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2018341688767160603",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 13时52分]"
         },
         {
           "title": "华为云发布柔性智算操作系统FlexNPU",
@@ -32,16 +46,15 @@
           "time_info": "[00时25分 ~ 07时21分]"
         },
         {
-          "title": "华为成立传媒军团，将聚焦 AIGC 全场景赋能等三大核心方向，如何看待这一布局？将会带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2018341688767160603",
-          "source": "知乎",
+          "title": "华为发布新一代算力芯片，单卡算力达H20的2.87倍，国内唯一支持FP4推理产品",
+          "url": "https://wallstreetcn.com/articles/3768071",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            3
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 12时18分]"
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "华为重磅发布新一代算力芯片",
