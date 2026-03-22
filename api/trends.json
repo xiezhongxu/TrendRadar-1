@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T15:37:07.292903+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2026-03-22T16:31:47.140522+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             8,
             3,
             2,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 15时37分]"
+          "appearance_count": 10,
+          "time_info": "[09时55分 ~ 16时31分]"
         },
         {
           "title": "华为发布新一代算力芯片昇腾950PR",
@@ -53,11 +54,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时51分 ~ 15时37分]"
+          "appearance_count": 7,
+          "time_info": "[13时51分 ~ 16时31分]"
         },
         {
           "title": "华为重磅发布新一代算力芯片",
