@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T01:51:47.721142+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-03-24T02:49:46.988253+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2019430438742049214",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 02时49分]"
         },
         {
           "title": "华为手机全面回归",
@@ -27,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 02时49分]"
         },
         {
           "title": "华为畅享90系列上手体验",
@@ -36,11 +37,12 @@
           "source": "抖音",
           "ranks": [
             17,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 02时49分]"
         },
         {
           "title": "尚界 Z7 预售 22.98 万起，全系标配华为 896 线激光雷达等黑科技，你有哪些期待？",
@@ -50,8 +52,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 02时49分]"
         }
       ]
     }
