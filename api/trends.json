@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T17:09:56.438886+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2026-03-23T18:51:18.973545+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "问界M6",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -42,6 +42,19 @@
           "time_info": "[16时02分 ~ 17时09分]"
         },
         {
+          "title": "华为春季发布会",
+          "url": "https://www.douyin.com/hot/2440642",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 18时51分]"
+        },
+        {
           "title": "AI算力需求将超1.3万亿美元！华为加码“企业龙虾” 涉及多家上市公司",
           "url": "https://www.cls.cn/detail/2320476",
           "source": "财联社热门",
@@ -51,18 +64,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时56分 ~ 09时57分]"
-        },
-        {
-          "title": "华为春季发布会",
-          "url": "https://www.douyin.com/hot/2440642",
-          "source": "抖音",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时09分]"
         },
         {
           "title": "手机集体涨价 华为苹果为啥不涨",
@@ -76,15 +77,70 @@
           "time_info": "16时02分"
         },
         {
+          "title": "华为畅享90系列上手体验",
+          "url": "https://www.douyin.com/hot/2440771",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "如何看待预售价 26.98 万起的问界 M6 全系标配新一代 896 线双光路图像级激光雷达？",
+          "url": "https://www.zhihu.com/question/2019366828015662079",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "问界M7新增夜紫车色",
+          "url": "https://www.toutiao.com/trending/7619873139577683987/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "华为畅享90系列价格真香",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E7%95%85%E4%BA%AB90%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E7%9C%9F%E9%A6%99%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
+        },
+        {
+          "title": "华为春季新品发布会有哪些看点",
+          "url": "https://www.toutiao.com/trending/7620012672796655659/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "问界M8升级四激光雷达",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM8%E5%8D%87%E7%BA%A7%E5%9B%9B%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "华为跑表业界首发马拉松模式",
@@ -93,7 +149,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         }
