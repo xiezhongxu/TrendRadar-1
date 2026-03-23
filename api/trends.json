@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T05:34:04.857614+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-03-24T06:29:06.087368+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时29分]"
         },
         {
           "title": "华为手机全面回归",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时29分]"
         },
         {
           "title": "华为畅享90系列上手体验",
@@ -46,8 +46,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时29分]"
         },
         {
           "title": "尚界 Z7 预售 22.98 万起，全系标配华为 896 线激光雷达等黑科技，你有哪些期待？",
@@ -57,8 +57,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时29分]"
         }
       ]
     }
