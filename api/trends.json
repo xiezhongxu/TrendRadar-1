@@ -1,47 +1,22 @@
 {
-  "generated_at": "2026-03-25T22:22:11.593463+08:00",
-  "total_titles_processed": 2008,
+  "generated_at": "2026-03-26T00:07:45.857034+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "问界M6 24小时订单突破6万台",
-          "url": "https://www.toutiao.com/trending/7620751369233780250/",
+          "title": "华为新品欲拿回中低端手机市场",
+          "url": "https://www.toutiao.com/trending/7621161911463185926/",
           "source": "今日头条",
           "ranks": [
-            26,
-            20,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 06时27分]"
-        },
-        {
-          "title": "如何评价华为畅享 90ProMax，是否诚意满满？",
-          "url": "https://www.zhihu.com/question/2019595728297666385",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
-        },
-        {
-          "title": "拼多多第四季度营收1,239.1亿元人民币，预估1,237.2亿元人民币。 第四季度调整后每ADS收益 17.69元人民币，预估20.84元人民币。 第四季度调整后营业利润294.7亿元人民币，预估293.5亿元人民币。 第四季度调整后净利润263.0亿元人民币，预估311.6亿元人民币。 第四季度研发支出49.9亿元人民币，预估46.2亿元人民币。 拼多多美股盘前跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3076621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时39分"
+          "time_info": "00时07分"
         }
       ]
     }
