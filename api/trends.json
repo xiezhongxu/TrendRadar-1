@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T10:02:03.273966+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-03-26T12:39:56.946356+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "华为千元新机怎么选",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时44分 ~ 10时02分]"
+        },
+        {
+          "title": "问界 M6 会对智界 R7 构成严重冲击吗？",
+          "url": "https://www.zhihu.com/question/1999877795145343169",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "华为新品欲拿回中低端手机市场",
