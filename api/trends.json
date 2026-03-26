@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T07:31:50.353351+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2026-03-26T10:02:03.273966+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             28,
             26,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时44分 ~ 07时31分]"
+          "appearance_count": 6,
+          "time_info": "[03时44分 ~ 10时02分]"
         },
         {
           "title": "华为新品欲拿回中低端手机市场",
