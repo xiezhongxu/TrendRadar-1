@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T16:36:46.059781+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-03-29T17:34:23.003214+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             7,
             4,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 16时36分]"
+          "appearance_count": 6,
+          "time_info": "[13时07分 ~ 17时34分]"
         },
         {
           "title": "曝内存价格暴涨前华为提前囤货",
@@ -40,7 +41,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         }
