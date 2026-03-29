@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T13:08:14.822356+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-03-29T14:59:42.987646+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2021268908196325196",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 14时59分]"
         },
         {
           "title": "曝内存价格暴涨前华为提前囤货",
