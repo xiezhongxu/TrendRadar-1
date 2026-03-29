@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-29T07:28:25.386169+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-03-29T10:04:01.770843+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曝内存价格暴涨前华为提前囤货",
+          "url": "https://www.toutiao.com/trending/7621789201730175019/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
