@@ -1,53 +1,7 @@
 {
-  "generated_at": "2026-03-29T23:28:44.633835+08:00",
-  "total_titles_processed": 1415,
+  "generated_at": "2026-03-30T00:32:14.583707+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "华为盘古大模型负责人王云鹤离职，投身 Agent 创业，前景如何？他的离职对华为大模型发展影响有多大？",
-          "url": "https://www.zhihu.com/question/2021268908196325196",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7,
-            4,
-            3,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时07分 ~ 19时26分]"
-        },
-        {
-          "title": "曝内存价格暴涨前华为提前囤货",
-          "url": "https://www.toutiao.com/trending/7621789201730175019/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 13时08分]"
-        },
-        {
-          "title": "享界汽车回应网传S9麋鹿测试视频",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AB%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0S9%E9%BA%8B%E9%B9%BF%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
