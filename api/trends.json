@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T16:54:46.181730+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-03-31T18:03:25.967219+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             16,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时06分 ~ 16时54分]"
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 18时03分]"
         },
         {
           "title": "五菱华为乾崑双向奔赴",
@@ -27,7 +28,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         }
