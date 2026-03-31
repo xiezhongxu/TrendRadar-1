@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T15:08:21.355584+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-03-31T16:54:46.181730+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "华为Mate 90系列终于要来了",
@@ -13,11 +13,23 @@
           "source": "今日头条",
           "ranks": [
             9,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 15时08分]"
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 16时54分]"
+        },
+        {
+          "title": "五菱华为乾崑双向奔赴",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E8%8F%B1%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         }
       ]
     }
