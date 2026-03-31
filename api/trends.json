@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T21:10:02.646232+08:00",
-  "total_titles_processed": 1720,
+  "generated_at": "2026-03-31T22:59:11.430760+08:00",
+  "total_titles_processed": 1846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "华为Mate 90系列终于要来了",
@@ -23,13 +23,24 @@
           "time_info": "[13时06分 ~ 19时45分]"
         },
         {
+          "title": "华为2025年销售收入8809亿",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA2025%E5%B9%B4%E9%94%80%E5%94%AE%E6%94%B6%E5%85%A58809%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 22时59分]"
+        },
+        {
           "title": "华为汪涛当值轮值董事长",
           "url": "https://wallstreetcn.com/livenews/3080163",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -51,7 +62,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         }
