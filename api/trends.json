@@ -1,27 +1,12 @@
 {
-  "generated_at": "2026-03-31T22:59:11.430760+08:00",
-  "total_titles_processed": 1846,
+  "generated_at": "2026-04-01T00:08:25.346215+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "华为Mate 90系列终于要来了",
-          "url": "https://www.toutiao.com/trending/7622150879864537094/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            16,
-            29,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时06分 ~ 19时45分]"
-        },
         {
           "title": "华为2025年销售收入8809亿",
           "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA2025%E5%B9%B4%E9%94%80%E5%94%AE%E6%94%B6%E5%85%A58809%E4%BA%BF",
@@ -30,41 +15,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时58分 ~ 22时59分]"
-        },
-        {
-          "title": "华为汪涛当值轮值董事长",
-          "url": "https://wallstreetcn.com/livenews/3080163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "五菱华为乾崑双向奔赴",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E8%8F%B1%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
-          "title": "华为2025年营收8809亿，研发投入1923亿",
-          "url": "https://wallstreetcn.com/livenews/3080153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时10分"
+          "time_info": "00时08分"
         }
       ]
     }
