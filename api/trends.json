@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T07:31:54.036672+08:00",
-  "total_titles_processed": 725,
+  "generated_at": "2026-04-01T10:10:54.584944+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时08分 ~ 10时10分]"
         },
         {
           "title": "华为Mate 90系列终于要来了",
