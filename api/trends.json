@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T14:10:48.763900+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-04-02T16:04:50.488188+08:00",
+  "total_titles_processed": 1291,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 16时04分]"
         },
         {
           "title": "华为旗舰标准智界V9不计成本投入",
