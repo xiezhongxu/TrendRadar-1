@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T10:03:13.296339+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-04-07T13:06:39.008965+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "曝华为畅享90系列热销",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时42分 ~ 06时33分]"
+        },
+        {
+          "title": "震安科技在互动平台表示，公司目前暂未与华为、比亚迪、大疆等企业开展深度合作。",
+          "url": "https://flash.jin10.com/detail/20260407115108801800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
         }
       ]
     }
