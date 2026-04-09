@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T19:54:02.938217+08:00",
-  "total_titles_processed": 1580,
+  "generated_at": "2026-04-09T21:19:16.077066+08:00",
+  "total_titles_processed": 1718,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             12,
             13,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 19时54分]"
+          "appearance_count": 9,
+          "time_info": "[12时32分 ~ 21时19分]"
         },
         {
           "title": "网传华为 2026 年 4 月 1 日起对主动离职者不再提供 N+1 补偿，你怎么看？",
