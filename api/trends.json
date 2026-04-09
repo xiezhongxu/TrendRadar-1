@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-04-09T18:10:30.665876+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-04-09T19:54:02.938217+08:00",
+  "total_titles_processed": 1580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "余承东批评团队零售设计审美差、不高级，华为现在的设计有什么问题？什么样的设计才算「高级感的审美」？",
+          "url": "https://www.zhihu.com/question/2025185741731361690",
+          "source": "知乎",
+          "ranks": [
+            10,
+            12,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时32分 ~ 19时54分]"
+        },
+        {
+          "title": "网传华为 2026 年 4 月 1 日起对主动离职者不再提供 N+1 补偿，你怎么看？",
+          "url": "https://www.zhihu.com/question/2025290530335077195",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
+        },
         {
           "title": "隆基绿能与华为数字能源达成战略合作 推动储能产业高质量发展",
           "url": "https://wallstreetcn.com/livenews/3084923",
@@ -19,26 +44,13 @@
           "time_info": "16时19分"
         },
         {
-          "title": "余承东批评团队零售设计审美差、不高级，华为现在的设计有什么问题？什么样的设计才算「高级感的审美」？",
-          "url": "https://www.zhihu.com/question/2025185741731361690",
-          "source": "知乎",
-          "ranks": [
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 18时10分]"
-        },
-        {
           "title": "华为 2026 年 4 月 1 日起对主动离职者不再提供 N+1 补偿，你怎么看？",
           "url": "https://www.zhihu.com/question/2025290530335077195",
           "source": "知乎",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
@@ -49,7 +61,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
