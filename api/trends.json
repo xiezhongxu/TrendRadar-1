@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-04-10T07:35:58.187637+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-04-10T10:08:52.282672+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "华为Pura90系列外观曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAPura90%E7%B3%BB%E5%88%97%E5%A4%96%E8%A7%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "华为小鹏为何纷纷闯入摩托车赛道",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%B0%8F%E9%B9%8F%E4%B8%BA%E4%BD%95%E7%BA%B7%E7%BA%B7%E9%97%AF%E5%85%A5%E6%91%A9%E6%89%98%E8%BD%A6%E8%B5%9B%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
