@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T20:50:27.304500+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2026-04-11T21:54:22.912962+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时37分 ~ 20时50分]"
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 21时54分]"
         },
         {
           "title": "汽车行业已在阿里云上使用超10万卡“真武”PPU研发智驾",
