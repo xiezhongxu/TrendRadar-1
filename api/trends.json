@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-11T18:31:55.987701+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2026-04-11T19:28:02.832418+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
       "match_count": 4,
       "titles": [
+        {
+          "title": "华为、小鹏等科技巨头纷纷闯入摩托车赛道，是战略卡位还是新风口已至？他们有哪些底气？",
+          "url": "https://www.zhihu.com/question/2025926047250605746",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 19时28分]"
+        },
         {
           "title": "汽车行业已在阿里云上使用超10万卡“真武”PPU研发智驾",
           "url": "https://wallstreetcn.com/livenews/3086157",
@@ -20,18 +33,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时22分 ~ 16时38分]"
-        },
-        {
-          "title": "华为、小鹏等科技巨头纷纷闯入摩托车赛道，是战略卡位还是新风口已至？他们有哪些底气？",
-          "url": "https://www.zhihu.com/question/2025926047250605746",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时31分]"
         },
         {
           "title": "汽车行业已在阿里云上使用超10万卡“真武”PPU研发智驾",
