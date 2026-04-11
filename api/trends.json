@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T22:34:36.717318+08:00",
-  "total_titles_processed": 1574,
+  "generated_at": "2026-04-11T23:31:58.131739+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时37分 ~ 22时34分]"
+          "appearance_count": 8,
+          "time_info": "[17时37分 ~ 23时31分]"
         },
         {
           "title": "汽车行业已在阿里云上使用超10万卡“真武”PPU研发智驾",
@@ -47,6 +47,18 @@
           "time_info": "[12时22分 ~ 13时58分]"
         },
         {
+          "title": "问界M6预订量突破10万台",
+          "url": "https://www.toutiao.com/trending/7627004869358141491/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 23时31分]"
+        },
+        {
           "title": "华为Pura90系列定档4月20日",
           "url": "https://www.toutiao.com/trending/7627106268192181787/",
           "source": "今日头条",
@@ -57,17 +69,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 13时58分]"
-        },
-        {
-          "title": "问界M6预订量突破10万台",
-          "url": "https://www.toutiao.com/trending/7627004869358141491/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
         }
       ]
     }
