@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T12:22:25.818448+08:00",
-  "total_titles_processed": 872,
+  "generated_at": "2026-04-11T13:58:51.148800+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://wallstreetcn.com/livenews/3086157",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时58分]"
         },
         {
           "title": "汽车行业已在阿里云上使用超10万卡“真武”PPU研发智驾",
           "url": "https://flash.jin10.com/detail/20260411104333055800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时58分]"
         },
         {
           "title": "华为Pura90系列定档4月20日",
           "url": "https://www.toutiao.com/trending/7627106268192181787/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时58分]"
         }
       ]
     }
