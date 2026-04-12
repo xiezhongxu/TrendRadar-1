@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T10:10:52.896296+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-04-12T13:20:56.504292+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
@@ -14,22 +14,24 @@
           "ranks": [
             4,
             2,
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 10时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 13时20分]"
         },
         {
           "title": "华为、小鹏等科技巨头纷纷闯入摩托车赛道，是战略卡位还是新风口已至？他们有哪些底气？",
           "url": "https://www.zhihu.com/question/2025926047250605746",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 10时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 13时20分]"
         },
         {
           "title": "问界M6预订量突破10万台",
