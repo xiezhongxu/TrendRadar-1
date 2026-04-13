@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T15:58:01.447681+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2026-04-13T17:55:31.790434+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,12 @@
           "url": "https://www.zhihu.com/question/2026830637785433240",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时38分 ~ 15时58分]"
-        },
-        {
-          "title": "华为首款大阔折全球官宣",
-          "url": "https://www.toutiao.com/trending/7627534281579560966/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
+          "appearance_count": 4,
+          "time_info": "[13时38分 ~ 17时55分]"
         },
         {
           "title": "据华为终端微博消息，华为阔折叠手机Pura X Max将于4月20日发布。",
@@ -41,6 +31,30 @@
           "time_info": "10时14分"
         },
         {
+          "title": "华为首款大阔折全球官宣",
+          "url": "https://www.toutiao.com/trending/7627534281579560966/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时57分 ~ 17时55分]"
+        },
+        {
+          "title": "华为横向阔折叠手机曝光",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%A8%AA%E5%90%91%E9%98%94%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时57分 ~ 17时55分]"
+        },
+        {
           "title": "华为PuraXMax",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAPuraXMax&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -51,17 +65,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时38分 ~ 15时58分]"
-        },
-        {
-          "title": "华为横向阔折叠手机曝光",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%A8%AA%E5%90%91%E9%98%94%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
         },
         {
           "title": "余承东官宣华为新款大阔折手机",
