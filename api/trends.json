@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T06:40:47.675582+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-04-14T07:39:58.737946+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             14,
             7,
             6,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时39分]"
         },
         {
           "title": "华为Pura X Max正式官宣",
@@ -31,8 +32,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时39分]"
         },
         {
           "title": "华为首款大阔折全球官宣",
@@ -40,11 +41,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            21
+            21,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 04时04分]"
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 07时39分]"
         }
       ]
     }
