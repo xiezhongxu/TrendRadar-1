@@ -1,109 +1,33 @@
 {
-  "generated_at": "2026-04-13T23:14:12.416263+08:00",
-  "total_titles_processed": 1639,
+  "generated_at": "2026-04-14T01:01:58.903410+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
         {
-          "title": "如何看待 4 月 13 日华为官宣首款大阔折华为 Pura X Max？",
-          "url": "https://www.zhihu.com/question/2026830637785433240",
+          "title": "如何看待问界 M6 预订量突破 100000 台？",
+          "url": "https://www.zhihu.com/question/2026687939418048004",
           "source": "知乎",
           "ranks": [
-            5,
-            8,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时38分 ~ 23时14分]"
-        },
-        {
-          "title": "华为横向阔折叠手机曝光",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%A8%AA%E5%90%91%E9%98%94%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            10,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时57分 ~ 23时14分]"
-        },
-        {
-          "title": "华为首款大阔折全球官宣",
-          "url": "https://www.toutiao.com/trending/7627534281579560966/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时57分 ~ 19时15分]"
-        },
-        {
-          "title": "据华为终端微博消息，华为阔折叠手机Pura X Max将于4月20日发布。",
-          "url": "https://wallstreetcn.com/livenews/3086600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "01时01分"
         },
         {
           "title": "华为Pura X Max正式官宣",
           "url": "https://www.douyin.com/hot/2464933",
           "source": "抖音",
           "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 23时14分]"
-        },
-        {
-          "title": "华为PuraXMax",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAPuraXMax&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时38分 ~ 15时58分]"
-        },
-        {
-          "title": "如何看待问界 M6 预订量突破 100000 台？",
-          "url": "https://www.zhihu.com/question/2026687939418048004",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时13分 ~ 23时14分]"
-        },
-        {
-          "title": "余承东官宣华为新款大阔折手机",
-          "url": "https://flash.jin10.com/detail/20260413094004091800",
-          "source": "金十数据",
-          "ranks": [
-            30
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "01时01分"
         }
       ]
     }
