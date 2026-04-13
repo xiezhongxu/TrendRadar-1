@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T21:19:16.679178+08:00",
-  "total_titles_processed": 1510,
+  "generated_at": "2026-04-13T23:14:12.416263+08:00",
+  "total_titles_processed": 1639,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何看待 4 月 13 日华为官宣首款大阔折华为 Pura X Max？",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             8,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时38分 ~ 21时19分]"
+          "appearance_count": 9,
+          "time_info": "[13时38分 ~ 23时14分]"
         },
         {
           "title": "华为横向阔折叠手机曝光",
@@ -27,11 +28,12 @@
           "ranks": [
             17,
             10,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时57分 ~ 21时19分]"
+          "appearance_count": 8,
+          "time_info": "[15时57分 ~ 23时14分]"
         },
         {
           "title": "华为首款大阔折全球官宣",
@@ -58,6 +60,18 @@
           "time_info": "10时14分"
         },
         {
+          "title": "华为Pura X Max正式官宣",
+          "url": "https://www.douyin.com/hot/2464933",
+          "source": "抖音",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 23时14分]"
+        },
+        {
           "title": "华为PuraXMax",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAPuraXMax&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -70,15 +84,15 @@
           "time_info": "[13时38分 ~ 15时58分]"
         },
         {
-          "title": "华为Pura X Max正式官宣",
-          "url": "https://www.douyin.com/hot/2464933",
-          "source": "抖音",
+          "title": "如何看待问界 M6 预订量突破 100000 台？",
+          "url": "https://www.zhihu.com/question/2026687939418048004",
+          "source": "知乎",
           "ranks": [
-            16
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 21时19分]"
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "余承东官宣华为新款大阔折手机",
