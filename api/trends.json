@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-15T06:42:28.337043+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-04-15T07:40:17.389748+08:00",
+  "total_titles_processed": 684,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
       "match_count": 2,
       "titles": [
+        {
+          "title": "赛力斯回应「华为税」质疑，其深度绑定模式对车企盈利意味着什么？",
+          "url": "https://www.zhihu.com/question/2027069403661972230",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时40分]"
+        },
         {
           "title": "以色列国防军：打击黎巴嫩南部Aadshit地区的真主党基础设施目标，包括武器储存设施、发射装置及指挥中心。还有武装人员被消灭。",
           "url": "https://flash.jin10.com/detail/20260415014931023800",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "赛力斯回应「华为税」质疑，其深度绑定模式对车企盈利意味着什么？",
-          "url": "https://www.zhihu.com/question/2027069403661972230",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时42分]"
         }
       ]
     }
