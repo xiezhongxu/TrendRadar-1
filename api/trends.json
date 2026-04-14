@@ -1,75 +1,22 @@
 {
-  "generated_at": "2026-04-14T22:48:53.391871+08:00",
-  "total_titles_processed": 1702,
+  "generated_at": "2026-04-15T00:05:53.360641+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "如何看待问界 M6 预订量突破 100000 台？",
-          "url": "https://www.zhihu.com/question/2026687939418048004",
-          "source": "知乎",
-          "ranks": [
-            9,
-            14,
-            7,
-            6,
-            8,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 10时09分]"
-        },
-        {
-          "title": "华为Pura X Max正式官宣",
-          "url": "https://www.douyin.com/hot/2464933",
-          "source": "抖音",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 07时39分]"
-        },
-        {
-          "title": "华为首款大阔折全球官宣",
-          "url": "https://www.toutiao.com/trending/7627534281579560966/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            21,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时17分 ~ 07时39分]"
-        },
-        {
-          "title": "华为夺一季度中国手机出货量第一",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%A4%BA%E4%B8%80%E5%AD%A3%E5%BA%A6%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%87%BA%E8%B4%A7%E9%87%8F%E7%AC%AC%E4%B8%80%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时21分]"
-        },
         {
           "title": "赛力斯回应「华为税」质疑，其深度绑定模式对车企盈利意味着什么？",
           "url": "https://www.zhihu.com/question/2027069403661972230",
           "source": "知乎",
           "ranks": [
-            16
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "00时05分"
         }
       ]
     }
