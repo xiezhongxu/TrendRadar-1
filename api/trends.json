@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T12:40:07.726907+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-04-18T14:13:09.668020+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://www.zhihu.com/question/2028547236338966702",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 14时13分]"
         },
         {
           "title": "橘子海乐队 华为",
