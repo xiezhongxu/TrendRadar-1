@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T16:56:54.251122+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-04-18T17:44:36.564851+08:00",
+  "total_titles_processed": 1270,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             11,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时39分 ~ 16时56分]"
+          "appearance_count": 7,
+          "time_info": "[12时39分 ~ 17时44分]"
         },
         {
           "title": "橘子海乐队 华为",
