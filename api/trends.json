@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T03:39:44.077535+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-04-20T04:34:01.616737+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "版权警察?橘子海乐队告华为",
@@ -15,8 +15,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 03时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时34分]"
+        },
+        {
+          "title": "橘子海乐队指控华为侵权",
+          "url": "https://www.douyin.com/hot/2471124",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 04时34分]"
         }
       ]
     }
