@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T04:34:01.616737+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-04-20T05:33:12.946567+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时36分 ~ 05时33分]"
         },
         {
           "title": "橘子海乐队指控华为侵权",
           "url": "https://www.douyin.com/hot/2471124",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 04时34分]"
+          "appearance_count": 4,
+          "time_info": "[04时33分 ~ 05时33分]"
         }
       ]
     }
