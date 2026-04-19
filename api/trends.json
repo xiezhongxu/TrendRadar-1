@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T06:32:12.669269+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-04-20T07:33:19.344954+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 07时33分]"
         },
         {
           "title": "橘子海乐队指控华为侵权",
@@ -25,11 +25,12 @@
           "ranks": [
             17,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时33分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[04时33分 ~ 07时33分]"
         }
       ]
     }
