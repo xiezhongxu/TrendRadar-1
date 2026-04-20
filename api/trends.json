@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T06:40:53.149019+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-04-21T07:40:04.324656+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 06时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时40分]"
         },
         {
           "title": "华为星钻手镯表售价29999元",
@@ -27,11 +28,12 @@
             7,
             9,
             10,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 06时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时40分]"
         },
         {
           "title": "供应链成本涨1500元！华为Pura 90、大阔折等新机发布 余承东：扛不住可能涨价",
@@ -44,8 +46,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 06时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时40分]"
         },
         {
           "title": "如何看待 4 月 20 日发布的华为 Pura X Max，有哪些创新，值得购买吗？",
@@ -55,8 +57,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 06时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时40分]"
         },
         {
           "title": "华为Pura X Max上手体验",
@@ -65,11 +67,26 @@
           "ranks": [
             24,
             27,
+            30,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 07时40分]"
+        },
+        {
+          "title": "华为发布首款鸿蒙AI眼镜 2499元起售",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E9%B8%BF%E8%92%99AI%E7%9C%BC%E9%95%9C+2499%E5%85%83%E8%B5%B7%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            21,
+            28,
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 06时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 07时40分]"
         },
         {
           "title": "UP主首发体验华为新品",
@@ -96,17 +113,15 @@
           "time_info": "[00时05分 ~ 03时01分]"
         },
         {
-          "title": "华为发布首款鸿蒙AI眼镜 2499元起售",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E9%B8%BF%E8%92%99AI%E7%9C%BC%E9%95%9C+2499%E5%85%83%E8%B5%B7%E5%94%AE",
-          "source": "百度热搜",
+          "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
+          "url": "https://wallstreetcn.com/articles/3770390",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            21,
-            28
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时05分 ~ 03时01分]"
+          "time_info": "[00时05分 ~ 07时40分]"
         },
         {
           "title": "华为首款AI眼镜来了",
@@ -119,17 +134,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时00分 ~ 04时03分]"
-        },
-        {
-          "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
-          "url": "https://wallstreetcn.com/articles/3770390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时55分]"
         },
         {
           "title": "华为发布全新二合一耳机表",
