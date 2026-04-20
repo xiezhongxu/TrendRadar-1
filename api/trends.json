@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T07:33:19.344954+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-04-20T10:15:04.641405+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353420&amp;topic_name=%E7%89%88%E6%9D%83%E8%AD%A6%E5%AF%9F%3F%E6%A9%98%E5%AD%90%E6%B5%B7%E4%B9%90%E9%98%9F%E5%91%8A%E5%8D%8E%E4%B8%BA",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 10时15分]"
         },
         {
           "title": "橘子海乐队指控华为侵权",
@@ -26,11 +27,12 @@
             17,
             15,
             13,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时33分 ~ 07时33分]"
+          "appearance_count": 9,
+          "time_info": "[04时33分 ~ 10时15分]"
         }
       ]
     }
