@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T13:24:48.961269+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-04-21T15:31:06.587915+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             4,
             9,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时05分 ~ 13时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时05分 ~ 15时31分]"
         },
         {
           "title": "华为星钻手镯表售价29999元",
