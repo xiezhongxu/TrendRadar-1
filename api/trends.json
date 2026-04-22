@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T03:17:46.823575+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-04-23T04:52:25.959203+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             9,
             23,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时52分]"
         },
         {
           "title": "问界M6上市",
