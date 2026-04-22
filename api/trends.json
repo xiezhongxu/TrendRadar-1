@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T01:58:47.870936+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-04-23T03:17:46.823575+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             5,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 03时17分]"
         },
         {
           "title": "智界V9预售价39.98万元起",
@@ -25,11 +26,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 03时17分]"
         },
         {
           "title": "问界M6上市",
@@ -37,11 +39,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 03时17分]"
         }
       ]
     }
