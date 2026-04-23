@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T06:41:19.821572+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-04-24T07:42:03.494711+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 06时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 07时42分]"
         },
         {
           "title": "华为乾崑智驾ADS5",
@@ -24,22 +24,24 @@
           "source": "微博",
           "ranks": [
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时48分 ~ 06时41分]"
+          "appearance_count": 5,
+          "time_info": "[04时48分 ~ 07时42分]"
         },
         {
           "title": "华为推出乾崑智驾操作系统",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%8E%A8%E5%87%BA%E4%B9%BE%E5%B4%91%E6%99%BA%E9%A9%BE%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            25,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 07时42分]"
         },
         {
           "title": "华为乾崑升级驾驶员失能辅助功能",
