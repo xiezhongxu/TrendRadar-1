@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T17:24:21.487545+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-04-23T19:05:23.707163+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
@@ -48,6 +48,18 @@
           "time_info": "13时27分"
         },
         {
+          "title": "鸿蒙智行回应“尚界Z7趴窝”",
+          "url": "https://www.douyin.com/hot/2475952",
+          "source": "抖音",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时27分 ~ 19时05分]"
+        },
+        {
           "title": "问界M9价格",
           "url": "https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8CM9%E4%BB%B7%E6%A0%BC&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -71,18 +83,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时43分]"
-        },
-        {
-          "title": "鸿蒙智行回应“尚界Z7趴窝”",
-          "url": "https://www.douyin.com/hot/2475952",
-          "source": "抖音",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时27分 ~ 17时24分]"
         },
         {
           "title": "问界M6起售价25.98万元",
@@ -148,7 +148,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
