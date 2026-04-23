@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T01:17:20.600644+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-04-24T03:03:38.048896+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时03分]"
         },
         {
           "title": "华为乾崑升级驾驶员失能辅助功能",
