@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T15:58:51.263467+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-04-24T17:45:44.283255+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "鸿蒙智行尚界 Z7/Z7T 新车 27 分钟大定破万，其 21.98 万元起售价有何竞争力？",
@@ -32,6 +32,18 @@
           "time_info": "[04时48分 ~ 07时42分]"
         },
         {
+          "title": "DeepSeek-V4发布！迈入百万上下文时代 华为昇腾超节点全面支持",
+          "url": "https://www.cls.cn/detail/2354690",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时58分 ~ 17时45分]"
+        },
+        {
           "title": "华为推出乾崑智驾操作系统",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%8E%A8%E5%87%BA%E4%B9%BE%E5%B4%91%E6%99%BA%E9%A9%BE%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -42,6 +54,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时48分 ~ 07时42分]"
+        },
+        {
+          "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
+          "url": "https://www.cls.cn/detail/2354737",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时58分 ~ 17时45分]"
         },
         {
           "title": "鸿蒙智行回应“尚界Z7趴窝”",
@@ -55,35 +79,13 @@
           "time_info": "10时13分"
         },
         {
-          "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
-          "url": "https://www.cls.cn/detail/2354737",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "DeepSeek-V4发布！迈入百万上下文时代 华为昇腾超节点全面支持",
-          "url": "https://www.cls.cn/detail/2354690",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
           "title": "DeepSeek-V4-Flash上线华为云",
           "url": "https://wallstreetcn.com/livenews/3093817",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -94,7 +96,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -108,6 +110,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "白敬亭现身北京车展问界展台",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%8E%B0%E8%BA%AB%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E9%97%AE%E7%95%8C%E5%B1%95%E5%8F%B0%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
+          "title": "华为Pura X Max体验",
+          "url": "https://www.toutiao.com/trending/7631150168654266377/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "华为乾崑升级驾驶员失能辅助功能",
