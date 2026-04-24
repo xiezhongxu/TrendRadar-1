@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-04-24T19:04:32.895257+08:00",
-  "total_titles_processed": 1460,
+  "generated_at": "2026-04-24T21:16:17.407281+08:00",
+  "total_titles_processed": 1607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
       "match_count": 13,
       "titles": [
+        {
+          "title": "DeepSeek-V4发布！迈入百万上下文时代 华为昇腾超节点全面支持",
+          "url": "https://www.cls.cn/detail/2354690",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 21时16分]"
+        },
         {
           "title": "鸿蒙智行尚界 Z7/Z7T 新车 27 分钟大定破万，其 21.98 万元起售价有何竞争力？",
           "url": "https://www.zhihu.com/question/2030421399714669319",
@@ -19,17 +33,18 @@
           "time_info": "[01时17分 ~ 07时42分]"
         },
         {
-          "title": "DeepSeek-V4发布！迈入百万上下文时代 华为昇腾超节点全面支持",
-          "url": "https://www.cls.cn/detail/2354690",
+          "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
+          "url": "https://www.cls.cn/detail/2354737",
           "source": "财联社热门",
           "ranks": [
-            11,
+            10,
+            7,
             5,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时58分 ~ 19时04分]"
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 21时16分]"
         },
         {
           "title": "华为乾崑智驾ADS5",
@@ -43,19 +58,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时48分 ~ 07时42分]"
-        },
-        {
-          "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
-          "url": "https://www.cls.cn/detail/2354737",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时58分 ~ 19时04分]"
         },
         {
           "title": "华为推出乾崑智驾操作系统",
@@ -109,7 +111,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
