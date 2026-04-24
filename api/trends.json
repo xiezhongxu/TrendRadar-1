@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T01:47:54.019799+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2026-04-25T02:44:20.466749+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 02时44分]"
         },
         {
           "title": "华为Pura 90 Pro Max评测",
@@ -26,7 +27,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         }
