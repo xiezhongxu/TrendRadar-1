@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T22:03:05.605359+08:00",
-  "total_titles_processed": 1381,
+  "generated_at": "2026-04-25T23:37:32.886973+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
@@ -21,11 +21,12 @@
             10,
             15,
             14,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时52分 ~ 22时03分]"
+          "appearance_count": 24,
+          "time_info": "[00时52分 ~ 23时37分]"
         },
         {
           "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
