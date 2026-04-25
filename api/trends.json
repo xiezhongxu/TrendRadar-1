@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T00:37:46.659370+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-26T01:35:47.507176+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%B7%B1%E5%BA%A6%E6%B5%8B%E8%AF%95%E5%8D%8E%E4%B8%BA%E5%A4%A7%E9%98%94%E6%8A%98",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时35分]"
         }
       ]
     }
