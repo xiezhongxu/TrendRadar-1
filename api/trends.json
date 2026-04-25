@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T17:49:50.402185+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-04-25T18:40:44.846904+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
@@ -23,8 +23,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 17时49分]"
+          "appearance_count": 18,
+          "time_info": "[00时52分 ~ 18时40分]"
         },
         {
           "title": "华为大阔折开售即售罄 各版本已断货",
@@ -41,28 +41,6 @@
           "time_info": "[13时08分 ~ 17时49分]"
         },
         {
-          "title": "全新奥迪Q5L上线华为乾崑智驾",
-          "url": "https://wallstreetcn.com/livenews/3094351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 17时49分]"
-        },
-        {
-          "title": "鸿蒙智行首款9系MPV亮相北京车展",
-          "url": "https://wallstreetcn.com/livenews/3094350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 17时49分]"
-        },
-        {
           "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
           "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
           "source": "澎湃新闻",
@@ -70,11 +48,12 @@
             18,
             17,
             15,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时08分 ~ 17时49分]"
+          "appearance_count": 7,
+          "time_info": "[13时08分 ~ 18时40分]"
         },
         {
           "title": "华为大阔折开售即售罄，目前各版本已断货",
@@ -84,11 +63,36 @@
             3,
             8,
             15,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时09分 ~ 17时49分]"
+          "appearance_count": 5,
+          "time_info": "[13时09分 ~ 18时40分]"
+        },
+        {
+          "title": "全新奥迪Q5L上线华为乾崑智驾",
+          "url": "https://wallstreetcn.com/livenews/3094351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 18时40分]"
+        },
+        {
+          "title": "鸿蒙智行首款9系MPV亮相北京车展",
+          "url": "https://wallstreetcn.com/livenews/3094350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 18时40分]"
         },
         {
           "title": "华为大阔折开售即售罄",
