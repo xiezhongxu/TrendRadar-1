@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T20:57:07.119330+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2026-04-25T22:03:05.605359+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
@@ -24,8 +24,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时52分 ~ 20时57分]"
+          "appearance_count": 23,
+          "time_info": "[00时52分 ~ 22时03分]"
         },
         {
           "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
@@ -39,8 +39,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时08分 ~ 20时57分]"
+          "appearance_count": 12,
+          "time_info": "[13时08分 ~ 22时03分]"
         },
         {
           "title": "华为大阔折开售即售罄 各版本已断货",
@@ -98,6 +98,19 @@
           "time_info": "[16时47分 ~ 19时36分]"
         },
         {
+          "title": "王传福车展来华为超充展台交流",
+          "url": "https://www.toutiao.com/trending/7632639715224702502/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时36分 ~ 22时03分]"
+        },
+        {
           "title": "华为大阔折开售即售罄",
           "url": "https://www.toutiao.com/trending/7631609733975408703/",
           "source": "今日头条",
@@ -108,18 +121,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时47分 ~ 17时49分]"
-        },
-        {
-          "title": "王传福车展来华为超充展台交流",
-          "url": "https://www.toutiao.com/trending/7632639715224702502/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 20时57分]"
         },
         {
           "title": "华为Pura 90 Pro Max评测",
