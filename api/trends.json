@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T18:42:50.621150+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2026-04-26T19:37:32.582528+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             3,
             6,
             10,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时36分 ~ 18时42分]"
+          "appearance_count": 6,
+          "time_info": "[13时36分 ~ 19时37分]"
         },
         {
           "title": "余承东：尊界新车价格在200万左右",
@@ -47,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 18时42分]"
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 19时37分]"
         },
         {
           "title": "全新问界M9汽车72小时预订量破两万五",
@@ -57,11 +58,12 @@
           "ranks": [
             17,
             24,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时57分 ~ 18时42分]"
+          "appearance_count": 4,
+          "time_info": "[16时57分 ~ 19时37分]"
         },
         {
           "title": "尊界S800上市10个月交付1.6万台",
