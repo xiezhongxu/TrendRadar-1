@@ -1,51 +1,7 @@
 {
-  "generated_at": "2026-04-27T23:05:32.570116+08:00",
-  "total_titles_processed": 1483,
+  "generated_at": "2026-04-28T01:19:43.000064+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "余承东：尊界新车价格在200万左右",
-          "url": "https://www.toutiao.com/trending/7632305048357666879/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            7,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 07时36分]"
-        },
-        {
-          "title": "股价触及涨停！江淮、华为合作“再升级” 尊界将推200万元级新品",
-          "url": "https://www.cls.cn/detail/2356447",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时01分 ~ 20时23分]"
-        },
-        {
-          "title": "王传福打卡问界展台 余承东亲自讲解",
-          "url": "https://www.toutiao.com/trending/7633269240094576179/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
