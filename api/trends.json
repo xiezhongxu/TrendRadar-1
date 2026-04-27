@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T16:16:32.915386+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-04-27T19:02:19.295154+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "余承东：尊界新车价格在200万左右",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时38分 ~ 07时36分]"
+        },
+        {
+          "title": "股价触及涨停！江淮、华为合作“再升级” 尊界将推200万元级新品",
+          "url": "https://www.cls.cn/detail/2356447",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "王传福打卡问界展台 余承东亲自讲解",
