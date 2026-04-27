@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T19:02:19.295154+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-04-27T20:23:23.203275+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "url": "https://www.cls.cn/detail/2356447",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时23分]"
         },
         {
           "title": "王传福打卡问界展台 余承东亲自讲解",
