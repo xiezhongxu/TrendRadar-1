@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-29T16:11:01.356924+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-04-29T18:52:55.620240+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
       "match_count": 3,
       "titles": [
+        {
+          "title": "华为Pura 90系列影像表现实测",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BAPura%2090%E7%B3%BB%E5%88%97%E5%BD%B1%E5%83%8F%E8%A1%A8%E7%8E%B0%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 18时52分]"
+        },
         {
           "title": "华为折叠屏对比iPhone折叠屏",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E6%8A%98%E5%8F%A0%E5%B1%8F%E5%AF%B9%E6%AF%94iPhone%E6%8A%98%E5%8F%A0%E5%B1%8F&t=31&band_rank=26&Refer=top",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时35分 ~ 10时36分]"
-        },
-        {
-          "title": "华为Pura 90系列影像表现实测",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BAPura%2090%E7%B3%BB%E5%88%97%E5%BD%B1%E5%83%8F%E8%A1%A8%E7%8E%B0%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
         },
         {
           "title": "老外在中国被华为笔记本震惊了",
