@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T23:07:00.385771+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2026-05-01T01:17:48.434970+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
@@ -12,24 +12,22 @@
           "url": "https://www.zhihu.com/question/2032448912359993581",
           "source": "知乎",
           "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时52分 ~ 23时07分]"
-        },
-        {
-          "title": "问界M6交付速度刺激购买决策",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM6%E4%BA%A4%E4%BB%98%E9%80%9F%E5%BA%A6%E5%88%BA%E6%BF%80%E8%B4%AD%E4%B9%B0%E5%86%B3%E7%AD%96%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时55分"
+          "time_info": "01时17分"
+        },
+        {
+          "title": "华为Pura 90系列影像表现实测",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BAPura%2090%E7%B3%BB%E5%88%97%E5%BD%B1%E5%83%8F%E8%A1%A8%E7%8E%B0%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
         }
       ]
     }
