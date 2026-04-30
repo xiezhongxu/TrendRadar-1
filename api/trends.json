@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T20:13:58.174165+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2026-04-30T23:07:00.385771+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 20时13分]"
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 23时07分]"
         },
         {
           "title": "问界M6交付速度刺激购买决策",
