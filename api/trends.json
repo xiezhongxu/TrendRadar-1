@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T06:51:42.845482+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-05-01T07:50:51.012100+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             3,
             5,
             6,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 07时50分]"
         },
         {
           "title": "华为Pura 90系列影像表现实测",
@@ -31,11 +32,12 @@
             14,
             18,
             20,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 07时50分]"
         }
       ]
     }
