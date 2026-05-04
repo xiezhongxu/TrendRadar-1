@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T23:59:45.638459+08:00",
-  "total_titles_processed": 1472,
+  "generated_at": "2026-05-05T01:45:20.399816+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "缅甸男子被华为折叠手机价格震惊",
@@ -14,20 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时59分"
-        },
-        {
-          "title": "华为多款新机销售表现曝光",
-          "url": "https://www.toutiao.com/trending/7635054178603827263/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时15分"
+          "time_info": "01时45分"
         }
       ]
     }
