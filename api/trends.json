@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T18:50:51.675127+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-05-05T19:58:48.900357+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 18时50分]"
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 19时58分]"
         },
         {
           "title": "缅甸男子被华为折叠手机价格震惊",
@@ -45,6 +45,18 @@
           "time_info": "[07时52分 ~ 13时40分]"
         },
         {
+          "title": "鸿蒙智行回应副驾折叠争议",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E5%89%AF%E9%A9%BE%E6%8A%98%E5%8F%A0%E4%BA%89%E8%AE%AE%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 19时58分]"
+        },
+        {
           "title": "顺风车司机高速开智驾睡觉打呼",
           "url": "https://www.toutiao.com/trending/7636061916722298923/",
           "source": "今日头条",
@@ -55,17 +67,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时04分 ~ 18时50分]"
-        },
-        {
-          "title": "鸿蒙智行回应副驾折叠争议",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E5%89%AF%E9%A9%BE%E6%8A%98%E5%8F%A0%E4%BA%89%E8%AE%AE%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
         }
       ]
     }
