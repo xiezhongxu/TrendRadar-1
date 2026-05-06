@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T13:54:30.265116+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-05-06T19:04:02.725626+08:00",
+  "total_titles_processed": 1259,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "鸿蒙智行回应副驾折叠争议，称网传视频场景未达到防夹功能触发阈值，哪些信息值得关注？能打消网友的疑虑吗？",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时48分 ~ 01时32分]"
+        },
+        {
+          "title": "滴滴回应顺风车司机高速开智驾睡觉",
+          "url": "https://www.toutiao.com/trending/7635881630292266537/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 19时04分]"
         }
       ]
     }
