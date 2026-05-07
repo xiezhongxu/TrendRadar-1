@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T16:40:03.070760+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-05-07T19:18:01.054306+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33104424",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 16时40分]"
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 19时18分]"
         },
         {
           "title": "三问享界S9零重力座椅夹人事件",
