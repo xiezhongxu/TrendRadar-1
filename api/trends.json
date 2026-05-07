@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T05:55:28.476826+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-05-08T06:59:23.779669+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33104424",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 06时59分]"
         },
         {
           "title": "华为MatePadProMax海外首发",
