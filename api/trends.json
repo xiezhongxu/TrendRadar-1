@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T13:59:19.290997+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-05-07T16:40:03.070760+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊朗外长访华为何引发世界关注",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时05分 ~ 07时46分]"
+        },
+        {
+          "title": "高速上有人开启智驾化妆、睡觉，媒体：谁把智驾吹成了“代驾”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33104424",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 16时40分]"
+        },
+        {
+          "title": "三问享界S9零重力座椅夹人事件",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%97%AE%E4%BA%AB%E7%95%8CS9%E9%9B%B6%E9%87%8D%E5%8A%9B%E5%BA%A7%E6%A4%85%E5%A4%B9%E4%BA%BA%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 16时40分]"
         }
       ]
     }
