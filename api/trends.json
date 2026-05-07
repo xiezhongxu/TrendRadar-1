@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T00:08:11.398488+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-05-08T02:24:11.289094+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 02时24分]"
         },
         {
           "title": "华为MatePadProMax海外首发",
