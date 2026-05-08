@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T05:58:13.801484+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-05-09T06:56:04.656785+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 06时56分]"
         },
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
           "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 06时56分]"
         },
         {
           "title": "黄仁勋话音刚落，国内光纤厂商披露与华为合作成果",
@@ -37,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 06时56分]"
         }
       ]
     }
