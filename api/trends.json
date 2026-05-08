@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T06:56:04.656785+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-05-09T07:55:12.580793+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 06时56分]"
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 07时55分]"
         },
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
@@ -38,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 06时56分]"
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 07时55分]"
         }
       ]
     }
