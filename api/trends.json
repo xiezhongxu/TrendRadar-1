@@ -1,84 +1,44 @@
 {
-  "generated_at": "2026-05-08T23:32:34.118446+08:00",
-  "total_titles_processed": 1711,
+  "generated_at": "2026-05-09T01:12:56.854382+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
           "title": "官媒下场三问享界夹人事件",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354103&amp;topic_name=%E5%AE%98%E5%AA%92%E4%B8%8B%E5%9C%BA%E4%B8%89%E9%97%AE%E4%BA%AB%E7%95%8C%E5%A4%B9%E4%BA%BA%E4%BA%8B%E4%BB%B6",
           "source": "贴吧",
           "ranks": [
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时14分 ~ 23时32分]"
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
           "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            15,
-            11,
-            10,
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时39分 ~ 23时32分]"
-        },
-        {
-          "title": "高速上有人开启智驾化妆、睡觉，媒体：谁把智驾吹成了“代驾”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33104424",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时59分]"
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
           "title": "黄仁勋话音刚落，国内光纤厂商披露与华为合作成果",
           "url": "https://news.ifeng.com/c/8sxjGvI6vnj",
           "source": "凤凰网",
           "ranks": [
-            11,
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时09分 ~ 23时32分]"
-        },
-        {
-          "title": "华为MatePadProMax海外首发",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMatePadProMax%E6%B5%B7%E5%A4%96%E9%A6%96%E5%8F%91%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
-        },
-        {
-          "title": "鸿蒙智行发布五一出行报告",
-          "url": "https://wallstreetcn.com/livenews/3100633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时10分"
+          "time_info": "01时12分"
         }
       ]
     }
