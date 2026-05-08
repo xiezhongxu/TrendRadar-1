@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-05-08T15:25:05.078242+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2026-05-08T17:15:01.097905+08:00",
+  "total_titles_processed": 1259,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时39分 ~ 17时15分]"
+        },
         {
           "title": "高速上有人开启智驾化妆、睡觉，媒体：谁把智驾吹成了“代驾”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33104424",
@@ -20,17 +34,15 @@
           "time_info": "[00时07分 ~ 06时59分]"
         },
         {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
+          "title": "官媒下场三问享界夹人事件",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354103&amp;topic_name=%E5%AE%98%E5%AA%92%E4%B8%8B%E5%9C%BA%E4%B8%89%E9%97%AE%E4%BA%AB%E7%95%8C%E5%A4%B9%E4%BA%BA%E4%BA%8B%E4%BB%B6",
+          "source": "贴吧",
           "ranks": [
-            18,
-            15,
-            11
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时39分 ~ 15时25分]"
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
         },
         {
           "title": "华为MatePadProMax海外首发",
