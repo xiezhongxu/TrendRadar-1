@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T21:26:20.713734+08:00",
-  "total_titles_processed": 1557,
+  "generated_at": "2026-05-08T23:32:34.118446+08:00",
+  "total_titles_processed": 1711,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时14分 ~ 21时26分]"
+          "appearance_count": 7,
+          "time_info": "[17时14分 ~ 23时32分]"
         },
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
@@ -27,11 +27,12 @@
             18,
             15,
             11,
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时39分 ~ 21时26分]"
+          "appearance_count": 12,
+          "time_info": "[10时39分 ~ 23时32分]"
         },
         {
           "title": "高速上有人开启智驾化妆、睡觉，媒体：谁把智驾吹成了“代驾”",
@@ -54,8 +55,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时09分 ~ 21时26分]"
+          "appearance_count": 5,
+          "time_info": "[19时09分 ~ 23时32分]"
         },
         {
           "title": "华为MatePadProMax海外首发",
