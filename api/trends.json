@@ -1,75 +1,22 @@
 {
-  "generated_at": "2026-05-09T23:47:30.290778+08:00",
-  "total_titles_processed": 1520,
+  "generated_at": "2026-05-10T00:51:29.852942+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 06时56分]"
-        },
         {
           "title": "官媒下场三问享界夹人事件",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354103&amp;topic_name=%E5%AE%98%E5%AA%92%E4%B8%8B%E5%9C%BA%E4%B8%89%E9%97%AE%E4%BA%AB%E7%95%8C%E5%A4%B9%E4%BA%BA%E4%BA%8B%E4%BB%B6",
           "source": "贴吧",
           "ranks": [
-            3,
-            5,
-            15,
-            17,
-            20,
-            21,
-            23,
             25
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时12分 ~ 23时47分]"
-        },
-        {
-          "title": "黄仁勋话音刚落，国内光纤厂商披露与华为合作成果",
-          "url": "https://news.ifeng.com/c/8sxjGvI6vnj",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 07时55分]"
-        },
-        {
-          "title": "问界辟谣被约谈",
-          "url": "https://flash.jin10.com/detail/20260509151123166800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 17时16分]"
-        },
-        {
-          "title": "华境S让华为全家桶进入15万时代",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E5%A2%83S%E8%AE%A9%E5%8D%8E%E4%B8%BA%E5%85%A8%E5%AE%B6%E6%A1%B6%E8%BF%9B%E5%85%A515%E4%B8%87%E6%97%B6%E4%BB%A3",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时16分"
+          "time_info": "00时51分"
         }
       ]
     }
