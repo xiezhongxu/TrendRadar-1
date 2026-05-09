@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T10:33:42.506356+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-05-09T13:46:30.051308+08:00",
+  "total_titles_processed": 893,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时12分 ~ 10时33分]"
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 13时46分]"
         },
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
