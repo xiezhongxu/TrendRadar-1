@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T21:09:09.100786+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2026-05-09T22:47:41.721715+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             17,
             20,
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时12分 ~ 21时09分]"
+          "appearance_count": 22,
+          "time_info": "[01时12分 ~ 22时47分]"
         },
         {
           "title": "黄仁勋话音刚落，国内光纤厂商披露与华为合作成果",
