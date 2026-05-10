@@ -1,37 +1,22 @@
 {
-  "generated_at": "2026-05-10T23:50:40.764371+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-05-11T00:51:49.564283+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "如何看待消息称华为 Pura X Max 首销超越所有折叠屏手机，10 天累计激活超 20 万？",
           "url": "https://www.zhihu.com/question/2036132690630546674",
           "source": "知乎",
           "ranks": [
-            6,
-            9,
-            8,
-            5
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时08分 ~ 23时50分]"
-        },
-        {
-          "title": "官媒下场三问享界夹人事件",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354103&amp;topic_name=%E5%AE%98%E5%AA%92%E4%B8%8B%E5%9C%BA%E4%B8%89%E9%97%AE%E4%BA%AB%E7%95%8C%E5%A4%B9%E4%BA%BA%E4%BA%8B%E4%BB%B6",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 10时36分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
         }
       ]
     }
