@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T04:04:35.394970+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-05-17T05:44:26.524143+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果、华为、小米集体官宣：降价",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时44分]"
         },
         {
           "title": "余承东称「尊界 s800」4 月上险量超 1100 台，累计交付超 17000 台，真实情况如何？",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 04时04分]"
+        },
+        {
+          "title": "华为 Mate90 系列提档 9 月，这对高端手机市场意味着什么？",
+          "url": "https://www.zhihu.com/question/2038167589323592851",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         }
       ]
     }
