@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T17:45:23.746804+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-05-16T19:02:24.238786+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "部分降价千元！苹果华为开启促销，iPhone17Pro最低6999元",
@@ -20,16 +20,28 @@
           "time_info": "[00时03分 ~ 07时53分]"
         },
         {
+          "title": "苹果华为抢着降价 谁怕了",
+          "url": "https://www.toutiao.com/trending/7640405614518078986/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
           "title": "余承东称「尊界 s800」4 月上险量超 1100 台，累计交付超 17000 台，真实情况如何？",
           "url": "https://www.zhihu.com/question/2038307987094249499",
           "source": "知乎",
           "ranks": [
             9,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 17时45分]"
+          "appearance_count": 4,
+          "time_info": "[15时59分 ~ 19时02分]"
         },
         {
           "title": "鸿蒙智行智界 V9 上市，售价 38.98-51.98 万，有哪些技术亮点？预计销量如何？",
