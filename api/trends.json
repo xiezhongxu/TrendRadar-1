@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T19:02:24.238786+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-05-16T19:58:14.871802+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://www.toutiao.com/trending/7640405614518078986/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[19时01分 ~ 19时58分]"
         },
         {
           "title": "余承东称「尊界 s800」4 月上险量超 1100 台，累计交付超 17000 台，真实情况如何？",
@@ -37,11 +38,12 @@
           "ranks": [
             9,
             15,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时59分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时59分 ~ 19时58分]"
         },
         {
           "title": "鸿蒙智行智界 V9 上市，售价 38.98-51.98 万，有哪些技术亮点？预计销量如何？",
