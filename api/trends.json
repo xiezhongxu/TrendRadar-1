@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T01:54:08.402211+08:00",
-  "total_titles_processed": 358,
+  "generated_at": "2026-05-17T03:00:54.364490+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时00分]"
         },
         {
           "title": "余承东称「尊界 s800」4 月上险量超 1100 台，累计交付超 17000 台，真实情况如何？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时00分]"
         },
         {
           "title": "苹果华为抢着降价 谁怕了",
