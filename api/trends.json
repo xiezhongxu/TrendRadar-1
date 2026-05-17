@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T03:05:21.602592+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-05-18T04:44:42.962639+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Token工厂落地无锡 依托华为昇腾384集群 算力进入“智能单元计费”时代",
@@ -15,8 +15,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时44分]"
+        },
+        {
+          "title": "苹果华为小米集体降价",
+          "url": "https://www.toutiao.com/trending/7640236954160283684/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         }
       ]
     }
