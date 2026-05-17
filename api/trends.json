@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T21:12:53.428034+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-05-17T22:54:05.693280+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "苹果、华为、小米集体官宣：降价",
@@ -75,6 +75,29 @@
           "time_info": "[10时43分 ~ 14时20分]"
         },
         {
+          "title": "苹果华为小米大幅降价原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时12分 ~ 22时54分]"
+        },
+        {
+          "title": "Token工厂落地无锡 依托华为昇腾384集群 算力进入“智能单元计费”时代",
+          "url": "https://www.cls.cn/detail/2373394",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 22时54分]"
+        },
+        {
           "title": "苹果华为抢着降价 谁怕了",
           "url": "https://www.toutiao.com/trending/7640405614518078986/",
           "source": "今日头条",
@@ -85,17 +108,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 04时04分]"
-        },
-        {
-          "title": "苹果华为小米大幅降价原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
         },
         {
           "title": "华为与中国中化签署深化战略合作协议",
