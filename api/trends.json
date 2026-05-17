@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T19:03:03.235341+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-05-17T21:12:53.428034+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "苹果、华为、小米集体官宣：降价",
@@ -85,6 +85,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 04时04分]"
+        },
+        {
+          "title": "苹果华为小米大幅降价原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "华为与中国中化签署深化战略合作协议",
