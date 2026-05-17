@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T22:54:05.693280+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-05-17T23:56:37.765044+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
@@ -80,22 +80,24 @@
           "source": "微博",
           "ranks": [
             18,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时12分 ~ 22时54分]"
+          "appearance_count": 4,
+          "time_info": "[21时12分 ~ 23时56分]"
         },
         {
           "title": "Token工厂落地无锡 依托华为昇腾384集群 算力进入“智能单元计费”时代",
           "url": "https://www.cls.cn/detail/2373394",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时53分 ~ 22时54分]"
+          "appearance_count": 3,
+          "time_info": "[22时53分 ~ 23时56分]"
         },
         {
           "title": "苹果华为抢着降价 谁怕了",
