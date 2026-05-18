@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T19:05:20.757252+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-05-18T23:22:00.625030+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             20,
             5,
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 19时05分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 23时22分]"
         },
         {
           "title": "苹果华为小米集体降价",
