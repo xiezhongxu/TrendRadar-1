@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T05:08:37.292540+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-05-19T06:58:02.030012+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             8,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 05时08分]"
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 06时58分]"
         },
         {
           "title": "苹果、华为、小米集体官宣降价，如何看待这波降价促销？降价策略还能像以前那样有效拉动销量吗？",
@@ -30,8 +31,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 05时08分]"
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 06时58分]"
         }
       ]
     }
