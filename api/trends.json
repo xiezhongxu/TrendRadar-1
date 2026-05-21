@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-21T13:08:02.862514+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2026-05-21T17:33:49.629658+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "唯品会第一季度净营收266亿元人民币，预估265.1亿元人民币。 第一季度调整后每ADS收益4.68元人民币，上年同期4.43元人民币，预估4.58元人民币。 第一季度调整后运营收益27.2亿元人民币，同比增长3.5%，预估26.9亿元人民币。 第一季度商品交易总额569亿元人民币，同比增长8.6%，预估546.4亿元人民币。 唯品会微涨。",
+          "url": "https://wallstreetcn.com/livenews/3107330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
         {
           "title": "特斯拉中国急招智驾测试技师",
           "url": "https://www.douyin.com/hot/2505444",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "网易第一季度营收306亿元人民币，预估295.1亿元人民币。 第一季度毛利212亿元人民币，预估191.1亿元人民币。 第一季度经调整每股ADS持续经营净收益17.46元人民币，预估15.47元人民币。 第一季度在线游戏服务净收入257.1亿元人民币，预估247.1亿元人民币。 第一季度创新及其他业务净收入15.5亿元人民币，预估15.8亿元人民币。 网易美股盘前跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3107310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         }
       ]
     }
