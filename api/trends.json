@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-24T23:01:54.762141+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2026-05-25T00:07:29.489903+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为半导体首席科学家廖恒：芯片到软件深度协同配合发挥超节点系统能力",
+          "url": "https://wallstreetcn.com/livenews/3108521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
