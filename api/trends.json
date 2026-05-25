@@ -1,34 +1,22 @@
 {
-  "generated_at": "2026-05-25T23:48:54.025343+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-05-26T01:40:40.953786+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 19,
+      "match_count": 4,
       "titles": [
         {
-          "title": "华为半导体领域新突破",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%A2%86%E5%9F%9F%E6%96%B0%E7%AA%81%E7%A0%B4%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
-        },
-        {
-          "title": "华为首提半导体演进新原则 目标2031年实现1.4纳米等效性能",
-          "url": "https://www.cls.cn/detail/2380476",
+          "title": "华为发布“韬定律”，有哪些技术方向值得关注？",
+          "url": "https://www.cls.cn/detail/2380668",
           "source": "财联社热门",
           "ranks": [
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 20时25分]"
+          "appearance_count": 1,
+          "time_info": "01时40分"
         },
         {
           "title": "华为正式发表“韬（τ）定律”！今秋面世的麒麟手机芯片性能将大幅提升",
@@ -38,189 +26,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 23时48分]"
-        },
-        {
-          "title": "武契奇访华为何引关注",
-          "url": "https://www.toutiao.com/trending/7643713731465055782/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "华为半导体首席科学家廖恒：芯片到软件深度协同配合发挥超节点系统能力",
-          "url": "https://wallstreetcn.com/livenews/3108521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 05时53分]"
-        },
-        {
-          "title": "华为发布“韬定律”，有哪些技术方向值得关注？",
-          "url": "https://www.cls.cn/detail/2380668",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 23时48分]"
+          "time_info": "01时40分"
         },
         {
           "title": "华为τ缩放：芯片竞争从“节点”转向“时间”",
           "url": "https://wallstreetcn.com/articles/3773040",
           "source": "华尔街见闻",
           "ranks": [
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 23时48分]"
-        },
-        {
-          "title": "华为麒麟2026手机芯片今秋面世",
-          "url": "https://www.toutiao.com/trending/7643436000194199579/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
+          "appearance_count": 1,
+          "time_info": "01时40分"
         },
         {
           "title": "何庭波署名论文发布，详解刷屏的华为“芯”技术",
           "url": "https://wallstreetcn.com/articles/3773031",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 23时48分]"
-        },
-        {
-          "title": "华为正式发表半导体领域新定律",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%AD%A3%E5%BC%8F%E5%8F%91%E8%A1%A8%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%A2%86%E5%9F%9F%E6%96%B0%E5%AE%9A%E5%BE%8B",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
-        },
-        {
-          "title": "华为发表半导体韬定律",
-          "url": "https://www.cls.cn/detail/2380319",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 20时25分]"
-        },
-        {
-          "title": "华为麒麟2026手机芯片今秋面世",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E9%BA%92%E9%BA%9F2026%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E4%BB%8A%E7%A7%8B%E9%9D%A2%E4%B8%96",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
-        },
-        {
-          "title": "华为麒麟2026手机芯片今秋面世",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%BA%92%E9%BA%9F2026%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E4%BB%8A%E7%A7%8B%E9%9D%A2%E4%B8%96%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
-        },
-        {
-          "title": "如何看待华为“芯”技术",
-          "url": "https://www.toutiao.com/trending/7643723862781201961/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "华为 韬定律",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%20%E9%9F%AC%E5%AE%9A%E5%BE%8B&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "华为与航天能源签署合作MOU/备忘录协议",
-          "url": "https://wallstreetcn.com/livenews/3108628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "华为：今年秋季面世的麒麟手机芯片性能将大幅提升",
-          "url": "https://wallstreetcn.com/livenews/3108621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "如何看待华为提出韬定律",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8D%8E%E4%B8%BA%E6%8F%90%E5%87%BA%E9%9F%AC%E5%AE%9A%E5%BE%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "华为正式发表半导体领域新定律，晶体管密度与系统性能通过逻辑折叠技术实现新突破",
-          "url": "https://wallstreetcn.com/livenews/3108603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "01时40分"
         }
       ]
     }
