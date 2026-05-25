@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T01:40:40.953786+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-26T03:24:22.459678+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时24分]"
         },
         {
           "title": "华为正式发表“韬（τ）定律”！今秋面世的麒麟手机芯片性能将大幅提升",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时24分]"
         },
         {
           "title": "华为τ缩放：芯片竞争从“节点”转向“时间”",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时24分]"
         },
         {
           "title": "何庭波署名论文发布，详解刷屏的华为“芯”技术",
@@ -48,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时24分]"
         }
       ]
     }
