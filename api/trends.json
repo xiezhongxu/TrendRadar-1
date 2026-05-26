@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T05:41:14.568736+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-05-27T07:06:44.728538+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
@@ -8,29 +8,31 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "华为：CPU大核频率预计2031年破5GHz",
-          "url": "https://www.toutiao.com/trending/7643610439875592211/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时16分]"
-        },
-        {
           "title": "半导体博士解读华为韬定律",
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%8D%9A%E5%A3%AB%E8%A7%A3%E8%AF%BB%E5%8D%8E%E4%B8%BA%E9%9F%AC%E5%AE%9A%E5%BE%8B",
           "source": "bilibili 热搜",
           "ranks": [
             17,
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 05时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 07时06分]"
+        },
+        {
+          "title": "华为：CPU大核频率预计2031年破5GHz",
+          "url": "https://www.toutiao.com/trending/7643610439875592211/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 07时06分]"
         },
         {
           "title": "华为新技术 逻辑折叠非3D堆叠",
@@ -38,11 +40,12 @@
           "source": "微博",
           "ranks": [
             17,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时15分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[03时15分 ~ 07时06分]"
         }
       ]
     }
