@@ -1,176 +1,33 @@
 {
-  "generated_at": "2026-05-27T23:32:15.602896+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2026-05-28T02:24:08.154525+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 14,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "半导体博士解读华为韬定律",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%8D%9A%E5%A3%AB%E8%A7%A3%E8%AF%BB%E5%8D%8E%E4%B8%BA%E9%9F%AC%E5%AE%9A%E5%BE%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            14,
-            16,
-            18,
-            19,
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 19时35分]"
-        },
-        {
-          "title": "华为：CPU大核频率预计2031年破5GHz",
-          "url": "https://www.toutiao.com/trending/7643610439875592211/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 07时06分]"
-        },
-        {
-          "title": "华为新技术 逻辑折叠非3D堆叠",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%8A%80%E6%9C%AF%20%E9%80%BB%E8%BE%91%E6%8A%98%E5%8F%A0%E9%9D%9E3D%E5%A0%86%E5%8F%A0&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 07时06分]"
-        },
         {
           "title": "鸿蒙智行问界 M9 上市，售价 47.98 万起，有哪些技术亮点？预计销量如何？",
           "url": "https://www.zhihu.com/question/2042953295174394055",
           "source": "知乎",
           "ranks": [
-            18,
-            11
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时34分 ~ 23时32分]"
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 02时24分]"
         },
         {
           "title": "余承东称新款问界M9是最强悍SUV",
           "url": "https://www.toutiao.com/trending/7643427656411217970/",
           "source": "今日头条",
           "ranks": [
-            9
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时31分 ~ 23时32分]"
-        },
-        {
-          "title": "华为Mate 90系列配置曝光",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BAMate+90%E7%B3%BB%E5%88%97%E9%85%8D%E7%BD%AE%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 19时35分]"
-        },
-        {
-          "title": "问界M9售价47.98至65.98万元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM9%E5%94%AE%E4%BB%B747.98%E8%87%B365.98%E4%B8%87%E5%85%83%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 19时35分]"
-        },
-        {
-          "title": "全新问界M9系列正式发布",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E6%96%B0%E9%97%AE%E7%95%8CM9%E7%B3%BB%E5%88%97%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "鸿蒙智行累计交付139万辆车",
-          "url": "https://wallstreetcn.com/livenews/3109883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "招股书期满失效，阿维塔筹备重新递交，IPO进程不受影响",
-          "url": "https://wallstreetcn.com/livenews/3109778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "华为申请注册TokEnergy商标",
-          "url": "https://wallstreetcn.com/livenews/3109880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "拼多多美股盘前跌近4%，公司第一季度营收和调整后每ADS收益均不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3110038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
-          "title": "拼多多第一季度营收1,062.3亿元人民币，预估1,086亿元人民币。 第一季度调整后每ADS收益9.51元人民币，预估16.08元人民币。 第一季度调整后营业利润210.9亿元人民币，预估224.3亿元人民币。 第一季度调整后净利润140.7亿元人民币，预估246亿元人民币。 第一季度研发支出44亿元人民币，预估43亿元人民币。 第一季度一般及行政开支15.8亿元人民币，预估17.9亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3110037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
-          "title": "鸿蒙智行累计交付139万辆车",
-          "url": "https://flash.jin10.com/detail/20260527143623171800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
+          "time_info": "[02时23分 ~ 02时24分]"
         }
       ]
     }
