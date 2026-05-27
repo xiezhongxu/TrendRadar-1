@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T10:59:19.545441+08:00",
-  "total_titles_processed": 751,
+  "generated_at": "2026-05-27T15:06:57.758293+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "半导体博士解读华为韬定律",
@@ -16,11 +16,12 @@
             14,
             16,
             18,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 10时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 15时06分]"
         },
         {
           "title": "华为：CPU大核频率预计2031年破5GHz",
@@ -49,15 +50,59 @@
           "time_info": "[03时15分 ~ 07时06分]"
         },
         {
+          "title": "全新问界M9系列正式发布",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E6%96%B0%E9%97%AE%E7%95%8CM9%E7%B3%BB%E5%88%97%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "鸿蒙智行累计交付139万辆车",
+          "url": "https://wallstreetcn.com/livenews/3109883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
           "title": "招股书期满失效，阿维塔筹备重新递交，IPO进程不受影响",
           "url": "https://wallstreetcn.com/livenews/3109778",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "华为申请注册TokEnergy商标",
+          "url": "https://wallstreetcn.com/livenews/3109880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "鸿蒙智行累计交付139万辆车",
+          "url": "https://flash.jin10.com/detail/20260527143623171800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         }
       ]
     }
