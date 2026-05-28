@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T11:53:03.261065+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2026-05-28T15:55:04.627098+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 15时55分]"
+        },
+        {
+          "title": "何庭波三分钟详解华为韬（τ）定律：芯片发展有了加速度，未来10年我们不会越来越远，只会越来越好",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33249817",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 15时55分]"
         },
         {
           "title": "鸿蒙智行问界 M9 上市，售价 47.98 万起，有哪些技术亮点？预计销量如何？",
@@ -31,6 +43,18 @@
           "time_info": "[02时23分 ~ 05时00分]"
         },
         {
+          "title": "5月28日投资避雷针：雄韬股份公告 华为发表了韬（τ）定律与公司业务不存在关联",
+          "url": "https://www.cls.cn/detail/2383572",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 15时55分]"
+        },
+        {
           "title": "余承东称新款问界M9是最强悍SUV",
           "url": "https://www.toutiao.com/trending/7643427656411217970/",
           "source": "今日头条",
@@ -41,28 +65,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时23分 ~ 05时00分]"
-        },
-        {
-          "title": "何庭波三分钟详解华为韬（τ）定律：芯片发展有了加速度，未来10年我们不会越来越远，只会越来越好",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33249817",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
-        },
-        {
-          "title": "5月28日投资避雷针：雄韬股份公告 华为发表了韬（τ）定律与公司业务不存在关联",
-          "url": "https://www.cls.cn/detail/2383572",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
         },
         {
           "title": "华为 时代少年团",
