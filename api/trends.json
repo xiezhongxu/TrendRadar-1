@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T02:35:02.334390+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-29T05:06:38.514671+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 02时35分]"
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 05时06分]"
         },
         {
           "title": "何庭波三分钟详解华为韬（τ）定律：芯片发展有了加速度，未来10年我们不会越来越远，只会越来越好",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 02时35分]"
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 05时06分]"
         },
         {
           "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福：持续投入超千亿研发资金",
@@ -37,19 +37,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 02时35分]"
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 05时06分]"
         },
         {
           "title": "如何看待华为培训会要求销售认识代言人时代少年团，包括成员的姓名生日番位，还要闭卷默写考核？",
           "url": "https://www.zhihu.com/question/2042605213383485415",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 02时35分]"
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 05时06分]"
+        },
+        {
+          "title": "比亚迪发布中国首款4nm智驾芯片",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%BE4nm%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 05时06分]"
         },
         {
           "title": "人民日报专访何庭波：华为比同行更早遇到这堵“墙”",
@@ -59,19 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 02时35分]"
-        },
-        {
-          "title": "比亚迪发布中国首款4nm智驾芯片",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%BE4nm%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 02时35分]"
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 05时06分]"
         }
       ]
     }
