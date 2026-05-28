@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-28T07:59:12.499761+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-05-28T11:53:03.261065+08:00",
+  "total_titles_processed": 748,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "华为公司董事、半导体业务部总裁何庭波：华为比同行更早遇到这堵“墙”",
+          "url": "https://www.cls.cn/detail/2383556",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 11时53分]"
+        },
         {
           "title": "鸿蒙智行问界 M9 上市，售价 47.98 万起，有哪些技术亮点？预计销量如何？",
           "url": "https://www.zhihu.com/question/2042953295174394055",
@@ -30,6 +41,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时23分 ~ 05时00分]"
+        },
+        {
+          "title": "何庭波三分钟详解华为韬（τ）定律：芯片发展有了加速度，未来10年我们不会越来越远，只会越来越好",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33249817",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 11时53分]"
+        },
+        {
+          "title": "5月28日投资避雷针：雄韬股份公告 华为发表了韬（τ）定律与公司业务不存在关联",
+          "url": "https://www.cls.cn/detail/2383572",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 11时53分]"
+        },
+        {
+          "title": "华为 时代少年团",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%20%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 11时53分]"
         }
       ]
     }
