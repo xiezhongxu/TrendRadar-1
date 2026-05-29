@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T04:15:33.899392+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-05-30T06:27:20.000795+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 06时27分]"
         },
         {
           "title": "比亚迪智驾出事全额赔付",
@@ -27,19 +27,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 06时27分]"
         },
         {
           "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
           "url": "https://www.zhihu.com/question/2042260682780009473",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 06时27分]"
         }
       ]
     }
