@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T18:43:31.837467+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-05-29T21:57:18.717966+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
@@ -93,6 +93,19 @@
           "time_info": "[02时34分 ~ 10时50分]"
         },
         {
+          "title": "比亚迪智驾出事全额赔付",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354682&amp;topic_name=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%99%BA%E9%A9%BE%E5%87%BA%E4%BA%8B%E5%85%A8%E9%A2%9D%E8%B5%94%E4%BB%98",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 21时57分]"
+        },
+        {
           "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
           "url": "https://wallstreetcn.com/articles/3773371",
           "source": "华尔街见闻",
@@ -103,18 +116,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时49分 ~ 18时43分]"
-        },
-        {
-          "title": "比亚迪智驾出事全额赔付",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354682&amp;topic_name=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%99%BA%E9%A9%BE%E5%87%BA%E4%BA%8B%E5%85%A8%E9%A2%9D%E8%B5%94%E4%BB%98",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 18时43分]"
         },
         {
           "title": "人民日报专访何庭波：华为比同行更早遇到这堵“墙”",
@@ -133,11 +134,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 18时43分]"
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 21时57分]"
         },
         {
           "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
@@ -146,9 +148,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 21时57分]"
         },
         {
           "title": "奕派M8满配搭载华为乾崑",
