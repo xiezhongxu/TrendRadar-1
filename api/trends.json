@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T10:50:03.080041+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-05-29T14:53:25.999128+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福：持续投入超千亿研发资金",
@@ -43,6 +43,28 @@
           "time_info": "[02时34分 ~ 07时12分]"
         },
         {
+          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
+          "url": "https://www.cls.cn/detail/2384785",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时53分]"
+        },
+        {
+          "title": "如何评价比亚迪自研的 4nm 璇玑 A3 智驾芯片？",
+          "url": "https://www.zhihu.com/question/2043426122491286329",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时53分]"
+        },
+        {
           "title": "如何看待华为培训会要求销售认识代言人时代少年团，包括成员的姓名生日番位，还要闭卷默写考核？",
           "url": "https://www.zhihu.com/question/2042605213383485415",
           "source": "知乎",
@@ -57,28 +79,6 @@
           "time_info": "[02时34分 ~ 10时50分]"
         },
         {
-          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
-          "url": "https://www.cls.cn/detail/2384785",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
-        },
-        {
-          "title": "如何评价比亚迪自研的 4nm 璇玑 A3 智驾芯片？",
-          "url": "https://www.zhihu.com/question/2043426122491286329",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
-        },
-        {
           "title": "比亚迪发布中国首款4nm智驾芯片",
           "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%BE4nm%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87",
           "source": "百度热搜",
@@ -90,6 +90,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时34分 ~ 10时50分]"
+        },
+        {
+          "title": "比亚迪智驾出事全额赔付",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354682&amp;topic_name=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%99%BA%E9%A9%BE%E5%87%BA%E4%BA%8B%E5%85%A8%E9%A2%9D%E8%B5%94%E4%BB%98",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "人民日报专访何庭波：华为比同行更早遇到这堵“墙”",
@@ -110,8 +121,41 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时53分]"
+        },
+        {
+          "title": "奕派M8满配搭载华为乾崑",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%95%E6%B4%BEM8%E6%BB%A1%E9%85%8D%E6%90%AD%E8%BD%BD%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "江西赣州公布一轿车追尾致3死事故调查报告：事发前司机激活智驾并双手脱离方向盘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33262014",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "徐直军谈华为芯片突围始末",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%9B%B4%E5%86%9B%E8%B0%88%E5%8D%8E%E4%B8%BA%E8%8A%AF%E7%89%87%E7%AA%81%E5%9B%B4%E5%A7%8B%E6%9C%AB%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         }
       ]
     }
