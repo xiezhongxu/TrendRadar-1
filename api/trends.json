@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T00:59:38.627022+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-31T02:04:45.458924+08:00",
+  "total_titles_processed": 352,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时04分]"
         },
         {
           "title": "比亚迪智驾出事全额赔付",
@@ -26,8 +26,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时04分]"
         }
       ]
     }
