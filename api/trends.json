@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T19:18:51.793102+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-05-30T21:21:30.710881+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时33分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[01时33分 ~ 21时21分]"
         },
         {
           "title": "江西赣州公布一轿车追尾致3死事故调查报告：事发前司机激活智驾并双手脱离方向盘",
@@ -41,8 +41,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时50分 ~ 19时18分]"
+          "appearance_count": 8,
+          "time_info": "[12时50分 ~ 21时21分]"
         },
         {
           "title": "梁文峰对华为的态度",
@@ -86,7 +86,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -97,7 +97,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         }
