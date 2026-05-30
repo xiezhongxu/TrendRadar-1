@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T12:51:04.271600+08:00",
-  "total_titles_processed": 713,
+  "generated_at": "2026-05-30T15:39:02.355857+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
@@ -25,22 +25,24 @@
           "source": "贴吧",
           "ranks": [
             9,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时33分 ~ 12时51分]"
+          "appearance_count": 9,
+          "time_info": "[01时33分 ~ 15时39分]"
         },
         {
           "title": "梁文峰对华为的态度",
           "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E5%B3%B0%E5%AF%B9%E5%8D%8E%E4%B8%BA%E7%9A%84%E6%80%81%E5%BA%A6&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 15时39分]"
         },
         {
           "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
@@ -62,8 +64,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 15时39分]"
         },
         {
           "title": "黄仁勋谈华为新突破",
