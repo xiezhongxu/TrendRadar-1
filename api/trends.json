@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T18:55:48.134651+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-05-31T20:09:42.820700+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 18时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时59分 ~ 20时09分]"
         },
         {
           "title": "台积电领先10年？黄仁勋误读了华为韬定律",
@@ -38,11 +38,12 @@
           "source": "微博",
           "ranks": [
             2,
-            7
+            7,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 18时55分]"
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 20时09分]"
         },
         {
           "title": "“司机夜间激活智驾并双手脱离方向盘”，江西一轿车追尾致3死调查报告公布",
@@ -50,11 +51,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 18时55分]"
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 20时09分]"
         },
         {
           "title": "1家3口车祸身亡 事发前司机激活智驾",
