@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T04:55:43.417645+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-06-01T05:57:31.656273+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时57分]"
         },
         {
           "title": "司机激活智驾并双手脱离方向盘不到一分钟，撞上半挂车，轿车上一家三口身亡，智驾真的能解放双手吗？",
@@ -27,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时57分]"
         },
         {
           "title": "“司机夜间激活智驾并双手脱离方向盘”，江西一轿车追尾致3死调查报告公布",
@@ -39,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时57分]"
         },
         {
           "title": "华境S上市，15万级唯一标配华为乾崑全家桶旗舰大六座来了",
@@ -50,8 +51,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 05时57分]"
         }
       ]
     }
