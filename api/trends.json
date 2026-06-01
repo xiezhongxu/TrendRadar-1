@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T01:32:11.352924+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-02T05:29:08.038832+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时29分]"
         },
         {
           "title": "华为nova 16价格公布",
           "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BAnova+16%E4%BB%B7%E6%A0%BC%E5%85%AC%E5%B8%83",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时29分]"
         }
       ]
     }
