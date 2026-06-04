@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T05:48:31.524925+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-06-05T07:07:24.637765+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             22,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 07时07分]"
         },
         {
           "title": "微信智能体“打通”各大手机厂商？客服：将和华为、小米等厂商合作，相关功能陆续上线",
@@ -25,11 +26,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 07时07分]"
         }
       ]
     }
