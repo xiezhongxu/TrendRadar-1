@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T07:07:24.637765+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-06-05T10:59:25.138397+08:00",
+  "total_titles_processed": 754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "高考智驾",
@@ -27,11 +27,23 @@
           "ranks": [
             19,
             17,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 10时59分]"
+        },
+        {
+          "title": "华为云发布AICS灵衢智算集群等Agentic AI新品",
+          "url": "https://flash.jin10.com/detail/20260605102013298800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     }
