@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T10:59:25.138397+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2026-06-05T15:12:31.607638+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             22,
             9,
-            4
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 15时12分]"
         },
         {
           "title": "微信智能体“打通”各大手机厂商？客服：将和华为、小米等厂商合作，相关功能陆续上线",
@@ -31,8 +32,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 10时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 15时12分]"
         },
         {
           "title": "华为云发布AICS灵衢智算集群等Agentic AI新品",
@@ -41,7 +42,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         }
