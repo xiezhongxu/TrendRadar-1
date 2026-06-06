@@ -1,40 +1,7 @@
 {
-  "generated_at": "2026-06-06T23:12:10.323613+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-06-07T01:07:55.510092+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "高考智驾",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%99%BA%E9%A9%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            25,
-            19,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时13分 ~ 17时23分]"
-        },
-        {
-          "title": "用友BIP超级版On华为云专属云解决方案发布",
-          "url": "https://flash.jin10.com/detail/20260606140631909800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
