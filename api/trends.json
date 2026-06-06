@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T14:27:48.801289+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-06-06T17:23:42.724230+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             12,
             25,
             19,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 14时27分]"
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 17时23分]"
         },
         {
           "title": "用友BIP超级版On华为云专属云解决方案发布",
@@ -28,7 +29,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         }
