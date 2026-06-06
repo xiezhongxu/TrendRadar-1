@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T10:46:35.963976+08:00",
-  "total_titles_processed": 729,
+  "generated_at": "2026-06-06T14:27:48.801289+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "高考智驾",
@@ -14,11 +14,23 @@
           "ranks": [
             12,
             25,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 10时46分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 14时27分]"
+        },
+        {
+          "title": "用友BIP超级版On华为云专属云解决方案发布",
+          "url": "https://flash.jin10.com/detail/20260606140631909800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         }
       ]
     }
