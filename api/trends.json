@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T21:45:24.580835+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-06-07T23:22:58.669839+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时50分 ~ 21时45分]"
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 23时22分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——中国贸易帐、CPI和PPI陆续公布；美国CPI；苹果WWDC开发者大会、华为开发者大会轮番上演、SpaceX上市",
@@ -26,7 +27,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         }
