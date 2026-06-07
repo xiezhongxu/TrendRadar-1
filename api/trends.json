@@ -1,35 +1,22 @@
 {
-  "generated_at": "2026-06-07T23:22:58.669839+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-06-08T01:12:43.892263+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "华为 PuraXMax 首月销量近 35 万台，典藏版卖得更好，这释放了哪些市场信号？",
           "url": "https://www.zhihu.com/question/2045967359232448046",
           "source": "知乎",
           "ranks": [
-            19,
-            17,
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 23时22分]"
-        },
-        {
-          "title": "金十整理：下周重要事件与数据预告——中国贸易帐、CPI和PPI陆续公布；美国CPI；苹果WWDC开发者大会、华为开发者大会轮番上演、SpaceX上市",
-          "url": "https://flash.jin10.com/detail/20260607205913944800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时45分"
+          "time_info": "01时12分"
         }
       ]
     }
