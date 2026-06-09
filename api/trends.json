@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-09T13:02:46.200043+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-06-09T17:35:42.790641+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "《网络测评活动规范》出台，这会对汽车的智驾实测、汽车横评等项目带来哪些影响？对汽车博主测评有影响吗？",
+          "url": "https://www.zhihu.com/question/2047281068265273006",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
         {
           "title": "华为云：计划于2026/12/1510:00（北京时间）对分布式缓存服务DCS4.0版本进行停售。",
           "url": "https://flash.jin10.com/detail/20260609122138943800",
@@ -14,7 +25,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
