@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T13:15:06.733687+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2026-06-10T17:52:09.697806+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "阿维塔回应某品牌名称设计上与其相似：中国汽车不能走复制粘贴之路",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 13时15分]"
+        },
+        {
+          "title": "金安国纪：截至目前公司未与英伟达、华为有过接触",
+          "url": "https://flash.jin10.com/detail/20260610173324884800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         }
       ]
     }
