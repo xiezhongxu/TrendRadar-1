@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-10T08:09:55.007561+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-06-10T13:15:06.733687+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿维塔回应某品牌名称设计上与其相似：中国汽车不能走复制粘贴之路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33341675",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
