@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T11:33:26.785161+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-06-11T16:42:34.329369+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2048020930757239453",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 16时42分]"
         },
         {
           "title": "长春市：打造世界级整车企业集团 支持中国一汽与华为等深化战略合作",
@@ -25,7 +26,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         }
