@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T16:42:34.329369+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-06-11T20:42:23.175044+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "华为首款超跑 SUV 智界 RX 正式官宣，会对新能源高端市场带来哪些影响？",
@@ -13,11 +13,23 @@
           "source": "知乎",
           "ranks": [
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 16时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时33分 ~ 20时42分]"
+        },
+        {
+          "title": "如何评价「前法拉利设计师加入智界」被法拉利大中华区公关总监质疑？",
+          "url": "https://www.zhihu.com/question/2048384227343967695",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "长春市：打造世界级整车企业集团 支持中国一汽与华为等深化战略合作",
