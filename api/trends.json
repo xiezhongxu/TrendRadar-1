@@ -1,47 +1,22 @@
 {
-  "generated_at": "2026-06-12T20:16:33.386074+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-06-13T00:15:08.732003+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "华为发布鸿蒙7操作系统",
           "url": "https://www.toutiao.com/trending/7650113709931593734/",
           "source": "今日头条",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时16分"
-        },
-        {
-          "title": "如何评价「前法拉利设计师加入智界」被法拉利大中华区公关总监质疑？",
-          "url": "https://www.zhihu.com/question/2048384227343967695",
-          "source": "知乎",
-          "ranks": [
-            9,
-            3,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 07时27分]"
-        },
-        {
-          "title": "华为鸿蒙7首次亮相",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%B8%BF%E8%92%997%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
+          "time_info": "[00时14分 ~ 00时15分]"
         }
       ]
     }
