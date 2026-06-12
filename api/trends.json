@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-13T00:15:08.732003+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-13T03:03:04.432562+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "6 月 12 日华为发布开源盘古 2.0 模型，如何评价 openPangu 2.0 ？",
+          "url": "https://www.zhihu.com/question/2048823351049707836",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 03时03分]"
+        },
         {
           "title": "华为发布鸿蒙7操作系统",
           "url": "https://www.toutiao.com/trending/7650113709931593734/",
