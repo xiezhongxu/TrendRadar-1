@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T03:03:04.432562+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-06-13T05:29:19.928709+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2048823351049707836",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时29分]"
         },
         {
           "title": "华为发布鸿蒙7操作系统",
