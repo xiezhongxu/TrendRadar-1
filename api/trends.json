@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T11:33:07.554223+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-06-12T16:22:02.282845+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何评价「前法拉利设计师加入智界」被法拉利大中华区公关总监质疑？",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时52分 ~ 07时27分]"
+        },
+        {
+          "title": "华为鸿蒙7首次亮相",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%B8%BF%E8%92%997%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
         }
       ]
     }
