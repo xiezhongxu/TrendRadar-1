@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T07:14:42.516277+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-06-13T10:58:18.886540+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             5,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时02分 ~ 07时14分]"
+          "appearance_count": 5,
+          "time_info": "[03时02分 ~ 10时58分]"
         },
         {
           "title": "华为发布鸿蒙7操作系统",
