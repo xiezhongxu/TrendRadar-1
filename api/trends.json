@@ -1,51 +1,7 @@
 {
-  "generated_at": "2026-06-13T23:42:43.627528+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2026-06-14T01:20:06.832045+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "6 月 12 日华为发布开源盘古 2.0 模型，如何评价 openPangu 2.0 ？",
-          "url": "https://www.zhihu.com/question/2048823351049707836",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时02分 ~ 10时58分]"
-        },
-        {
-          "title": "全新深蓝S07增程版上市，搭载华为乾崑智驾ADS Pro",
-          "url": "https://wallstreetcn.com/livenews/3119133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 19时55分]"
-        },
-        {
-          "title": "华为发布鸿蒙7操作系统",
-          "url": "https://www.toutiao.com/trending/7650113709931593734/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
