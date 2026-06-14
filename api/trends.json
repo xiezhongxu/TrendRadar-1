@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-14T23:47:54.803936+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-06-15T01:17:12.849557+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华为鸿蒙OS 7如何重塑手机竞争",
-          "url": "https://www.toutiao.com/trending/7650929828056534571/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
