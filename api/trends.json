@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-15T23:49:35.508699+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-06-16T03:45:00.435915+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据问界汽车消息，截至2026年6月14日，问界M6上市54天交付超30000台。",
-          "url": "https://wallstreetcn.com/livenews/3119409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
