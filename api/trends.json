@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-17T11:39:50.908717+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-06-17T16:59:45.471546+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "司机高速开智驾睡了6次 乘客报警",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B8%E6%9C%BA%E9%AB%98%E9%80%9F%E5%BC%80%E6%99%BA%E9%A9%BE%E7%9D%A1%E4%BA%866%E6%AC%A1+%E4%B9%98%E5%AE%A2%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
         {
           "title": "余承东透露打造享界G9初衷",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E9%80%8F%E9%9C%B2%E6%89%93%E9%80%A0%E4%BA%AB%E7%95%8CG9%E5%88%9D%E8%A1%B7%23&t=31&band_rank=29&Refer=top",
@@ -14,7 +25,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         }
