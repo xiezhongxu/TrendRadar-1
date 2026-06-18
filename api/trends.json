@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T20:22:11.762831+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-06-19T00:29:43.465073+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "开源智驾有多危险",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E6%BA%90%E6%99%BA%E9%A9%BE%E6%9C%89%E5%A4%9A%E5%8D%B1%E9%99%A9",
+          "title": "小Lin对话华为终端CEO",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8FLin%E5%AF%B9%E8%AF%9D%E5%8D%8E%E4%B8%BA%E7%BB%88%E7%AB%AFCEO",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         }
       ]
     }
