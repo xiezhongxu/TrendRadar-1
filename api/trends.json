@@ -1,80 +1,22 @@
 {
-  "generated_at": "2026-06-23T22:46:54.325551+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2026-06-24T01:14:39.755079+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "华为宣布对智驾系统进行「兜底」，此举将对智能驾驶行业和消费者带来哪些影响？",
           "url": "https://www.zhihu.com/question/2052658991981973630",
           "source": "知乎",
           "ranks": [
-            18,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 22时46分]"
-        },
-        {
-          "title": "半导体分析师：华为一定会搞定EUV",
-          "url": "https://www.toutiao.com/trending/7654144176527294490/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 08时05分]"
-        },
-        {
-          "title": "兆丰股份：拟募资不超14亿元用于具身智能机器人和汽车智驾高端精密部件产业化项目等",
-          "url": "https://flash.jin10.com/detail/20260623193805520800",
-          "source": "金十数据",
-          "ranks": [
-            10
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "华为宣布对智驾兜底",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%AE%A3%E5%B8%83%E5%AF%B9%E6%99%BA%E9%A9%BE%E5%85%9C%E5%BA%95%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "华为乾坤高阶智驾包自 7 月 1 日起涨价至 15000 元，你怎么看？",
-          "url": "https://www.zhihu.com/question/2050900350299852955",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "华为乾坤高阶智驾包自 7 月 1 日起调价， 一次性购买恢复至标准价 3.6 万元，你怎么看？",
-          "url": "https://www.zhihu.com/question/2050900350299852955",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "01时14分"
         }
       ]
     }
