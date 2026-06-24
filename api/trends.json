@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-06-24T21:18:31.780781+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2026-06-25T00:16:09.863401+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华为宣布对智驾系统进行「兜底」，此举将对智能驾驶行业和消费者带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2052658991981973630",
-          "source": "知乎",
-          "ranks": [
-            3,
-            16,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 07时06分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
