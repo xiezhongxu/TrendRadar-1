@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-27T00:13:15.461339+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-27T02:29:17.311098+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "138.8 万元起，国产华为尊界 S800 Grand Design 典藏大观正式发布，你怎么看？",
+          "url": "https://www.zhihu.com/question/2053574442261944010",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 02时29分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
