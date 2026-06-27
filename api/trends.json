@@ -1,84 +1,22 @@
 {
-  "generated_at": "2026-06-27T22:27:32.878518+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2026-06-28T00:04:34.872056+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "138.8 万元起，国产华为尊界 S800 Grand Design 典藏大观正式发布，你怎么看？",
-          "url": "https://www.zhihu.com/question/2053574442261944010",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时28分 ~ 12时50分]"
-        },
-        {
-          "title": "华为：OceanStor A800存储斩获IO500榜单第一",
-          "url": "https://flash.jin10.com/detail/20260627170952244800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
-          "title": "余承东：全新一代问界M9系列大定破42000台",
-          "url": "https://flash.jin10.com/detail/20260627171134659800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 20时07分]"
-        },
-        {
-          "title": "余承东：全新一代问界M9系列大定破42000台",
-          "url": "https://wallstreetcn.com/livenews/3125573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 20时07分]"
-        },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
           "url": "https://www.zhihu.com/question/2050591443664779181",
           "source": "知乎",
           "ranks": [
-            15,
-            13,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时03分 ~ 22时27分]"
-        },
-        {
-          "title": "张兴海回应问界供应链：坚定与华为、宁德时代的战略约定不改变",
-          "url": "https://wallstreetcn.com/livenews/3125554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时03分"
+          "time_info": "00时04分"
         }
       ]
     }
