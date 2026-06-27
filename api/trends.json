@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T20:07:54.447968+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-06-27T22:27:32.878518+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
@@ -62,11 +62,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 20时07分]"
+          "appearance_count": 3,
+          "time_info": "[18时03分 ~ 22时27分]"
         },
         {
           "title": "张兴海回应问界供应链：坚定与华为、宁德时代的战略约定不改变",
