@@ -1,35 +1,22 @@
 {
-  "generated_at": "2026-06-29T22:45:53.824190+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-06-30T01:33:35.358107+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "余承东官宣尊界 V800 定位「超高端 MPV」，其市场竞争力如何？",
-          "url": "https://www.zhihu.com/question/2047340679060251139",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时13分 ~ 08时05分]"
-        },
         {
           "title": "如何看待在新款尊界 S800 发布之际江淮大股东大幅减持? 会是什么原因？后续会有什么影响？",
           "url": "https://www.zhihu.com/question/2054621567007602582",
           "source": "知乎",
           "ranks": [
-            17
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时45分"
+          "time_info": "01时33分"
         }
       ]
     }
