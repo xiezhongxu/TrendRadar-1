@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-01T16:08:28.191206+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-07-01T19:58:43.382598+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
+          "url": "https://www.zhihu.com/question/2055596626312541231",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
         {
           "title": "阿维塔获L3自动驾驶测试牌照",
           "url": "https://wallstreetcn.com/livenews/3127089",
