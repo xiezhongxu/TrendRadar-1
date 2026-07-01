@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T05:24:55.180469+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-07-02T07:11:05.573769+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2414363",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 05时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 07时11分]"
         },
         {
           "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
