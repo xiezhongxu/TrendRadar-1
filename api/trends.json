@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T03:48:42.123870+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-07-02T05:24:55.180469+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 05时24分]"
         },
         {
           "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 05时24分]"
         }
       ]
     }
