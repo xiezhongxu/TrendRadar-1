@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-03T23:08:10.868574+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2026-07-04T01:21:31.412967+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "神州数码：中标某国有大行华为智算服务器采购项目 预估金额3.71亿元",
-          "url": "https://wallstreetcn.com/livenews/3128615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
