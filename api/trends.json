@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T20:04:56.231738+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2026-07-04T22:26:50.909554+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 20时04分]"
+          "appearance_count": 3,
+          "time_info": "[18时05分 ~ 22时26分]"
         },
         {
           "title": "华为何庭波发布 V2 版“韬定律”论文 补充工程细节和实测数据",
