@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T07:59:37.073265+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-07-05T11:46:15.447573+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
@@ -14,11 +14,23 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 07时59分]"
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 11时46分]"
+        },
+        {
+          "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
+          "url": "https://www.cls.cn/detail/2417200",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 11时46分]"
         },
         {
           "title": "何小鹏：中国智驾领先全球，L2级辅助驾驶将加速出海",
