@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T11:46:15.447573+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2026-07-05T15:22:24.621649+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 15时22分]"
         },
         {
           "title": "何小鹏：中国智驾领先全球，L2级辅助驾驶将加速出海",
