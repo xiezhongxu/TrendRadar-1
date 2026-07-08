@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T01:45:29.577003+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-07-09T03:19:59.683587+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时19分]"
         },
         {
           "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
@@ -27,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时19分]"
         },
         {
           "title": "华为几乎把整本山海经都注册了",
