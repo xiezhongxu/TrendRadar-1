@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-09T05:03:35.352916+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-07-09T07:02:05.399946+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
       "match_count": 3,
       "titles": [
+        {
+          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2420504",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 07时02分]"
+        },
         {
           "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2058168270499176758",
@@ -19,17 +30,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时02分 ~ 03时19分]"
-        },
-        {
-          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2420504",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时03分]"
         },
         {
           "title": "华为几乎把整本山海经都注册了",
