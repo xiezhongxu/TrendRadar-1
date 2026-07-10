@@ -1,45 +1,33 @@
 {
-  "generated_at": "2026-07-10T22:13:15.494041+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2026-07-11T00:53:38.366318+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "NPO规模商用有望加速 华为发起首个多源协议 多家A股公司参与",
-          "url": "https://www.cls.cn/detail/2422336",
-          "source": "财联社热门",
+          "title": "赵长江预热智界 RX，前法拉利高级首席外饰设计师 Werner Gruber 现身，你怎么看？",
+          "url": "https://www.zhihu.com/question/2058569314773602924",
+          "source": "知乎",
           "ranks": [
-            12,
-            11
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 16时19分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
-          "title": "华为联合伙伴发起OPEN NPO项目",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E8%81%94%E5%90%88%E4%BC%99%E4%BC%B4%E5%8F%91%E8%B5%B7OPEN%20NPO%E9%A1%B9%E7%9B%AE&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 12时06分]"
-        },
-        {
-          "title": "据知情人士透露，SK海力士美国IPO定价为每份ADS 149美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3131548",
+          "title": "SK海力士美国IPO首日开盘上涨超过14.09%，报170美元，盘中市值大约1.25万亿美元。 此前给出的IPO发行价为每份ADS 149美元，通过发行1.779亿份ADS融资大约265亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3132172",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "00时53分"
         }
       ]
     }
