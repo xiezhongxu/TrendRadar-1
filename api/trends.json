@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-07-11T23:52:47.248538+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2026-07-12T00:53:20.101050+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "赵长江预热智界 RX，前法拉利高级首席外饰设计师 Werner Gruber 现身，你怎么看？",
-          "url": "https://www.zhihu.com/question/2058569314773602924",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        },
-        {
-          "title": "SK海力士美国IPO首日开盘上涨超过14.09%，报170美元，盘中市值大约1.25万亿美元。 此前给出的IPO发行价为每份ADS 149美元，通过发行1.779亿份ADS融资大约265亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3132172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
