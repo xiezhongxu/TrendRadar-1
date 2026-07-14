@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-14T23:22:22.158211+08:00",
-  "total_titles_processed": 1773,
+  "generated_at": "2026-07-15T01:11:20.790930+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "消息人士：华为逆势上调手机出货目标20%",
-          "url": "https://flash.jin10.com/detail/20260714154304852800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
