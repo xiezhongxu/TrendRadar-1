@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-15T13:09:11.342849+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-07-15T16:02:44.815693+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为昇腾950超节点将首次真机亮相 国产算力板块高景气有望延续",
+          "url": "https://www.cls.cn/detail/2426602",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
