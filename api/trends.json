@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T20:13:09.920101+08:00",
-  "total_titles_processed": 1523,
+  "generated_at": "2026-07-15T22:46:07.670481+08:00",
+  "total_titles_processed": 1681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "华为手机出货量逆势暴涨",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时12分 ~ 20时13分]"
+        },
+        {
+          "title": "如何评价 Q2 全球智能手机出货量同比下滑，小米跌幅最大，三星、苹果、华为逆势上涨？",
+          "url": "https://www.zhihu.com/question/2060476741349646921",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 22时46分]"
         },
         {
           "title": "华为昇腾950超节点将首次真机亮相 国产算力板块高景气有望延续",
