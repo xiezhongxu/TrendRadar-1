@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T03:02:03.723763+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-07-20T04:10:31.712698+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时10分]"
         },
         {
           "title": "车主过度依赖智驾车辆跑偏撞护栏",
