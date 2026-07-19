@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T13:48:36.052946+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-07-19T16:10:16.808124+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时04分 ~ 13时48分]"
+          "appearance_count": 9,
+          "time_info": "[04时04分 ~ 16时10分]"
         },
         {
           "title": "如何看懂华为昇腾950超节点",
