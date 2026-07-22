@@ -1,69 +1,7 @@
 {
-  "generated_at": "2026-07-22T23:32:04.401994+08:00",
-  "total_titles_processed": 1588,
+  "generated_at": "2026-07-23T01:13:34.018592+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "华为 ADS 鸿蒙智行 问界 尊界 智界 享界 阿维塔 智驾",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "谷歌(GOOG.O)：自7月21日起，使用超过6个月的Google Ads账户将不再提供针对部分政策决定的申诉选项。",
-          "url": "https://flash.jin10.com/detail/20260722002853814800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "MetaPlatforms(META.O)：启用监督功能后，家长可以查看青少年在Threads上花费的时间、设置每日使用时限、调整睡眠模式以及管理隐私设置。",
-          "url": "https://flash.jin10.com/detail/20260722000220023800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "Meta：新款父母监护工具将投放到Threads。 父母可以了解自家青少年（10-20岁）在Threads所消耗的时间。",
-          "url": "https://wallstreetcn.com/livenews/3137681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "MetaPlatforms(META.O)：在Threads网页版推出家长监管功能。",
-          "url": "https://flash.jin10.com/detail/20260722000214616800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "大众与地平线深化AI合作，加速L3/L4智驾本土化落地",
-          "url": "https://wallstreetcn.com/livenews/3138060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
