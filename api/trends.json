@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T04:59:09.037199+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-07-24T06:06:37.611565+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             22,
             19,
             10,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 04时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 06时06分]"
         },
         {
           "title": "任正非：韬定律是华为唯一突围道路",
@@ -27,11 +28,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 04时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 06时06分]"
         }
       ]
     }
